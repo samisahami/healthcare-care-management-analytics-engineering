@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# dbt
+dbt_packages/
+target/
+logs/
+
+# Data files
+data/processed/
+data/exports/
+
+# VS Code
+.vscode/
+
+# Secrets
+.env
+profiles.yml

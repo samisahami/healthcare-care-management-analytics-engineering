@@ -1,0 +1,10 @@
+pandas
+numpy
+faker
+jupyter
+matplotlib
+plotly
+scikit-learn
+pyyaml
+snowflake-connector-python
+sqlalchemy
