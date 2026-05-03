@@ -1,0 +1,1501 @@
+episode_id,member_id,program_type,episode_start,episode_end,episode_status,case_manager
+EP0000001,158,High Risk,2025-10-19,,Open,Brian Smith
+EP0000002,479,Case Management,2026-03-12,,Open,Fatima Khan
+EP0000003,306,High Risk,2025-12-20,2026-03-27,Closed,Brian Smith
+EP0000004,44,High Risk,2025-08-31,2026-03-16,Completed,Daniel Lopez
+EP0000005,928,Maternity,2025-11-19,2025-12-15,Closed,Carla Davis
+EP0000006,827,Behavioral Health,2026-02-17,2026-04-02,Unable to Reach,Fatima Khan
+EP0000007,293,Maternity,2025-05-01,2025-10-31,Completed,Brian Smith
+EP0000008,15,Disease Management,2026-03-10,2026-04-09,Unable to Reach,Emily Chen
+EP0000009,485,Maternity,2025-10-03,2026-01-26,Completed,Alice Johnson
+EP0000010,499,Maternity,2025-12-22,2026-03-16,Closed,Fatima Khan
+EP0000011,803,Case Management,2026-03-10,2026-04-12,Closed,Fatima Khan
+EP0000012,935,Case Management,2025-12-13,,Open,Fatima Khan
+EP0000013,898,High Risk,2026-01-25,2026-03-14,Unable to Reach,Daniel Lopez
+EP0000014,191,Behavioral Health,2026-02-06,2026-03-08,Closed,Daniel Lopez
+EP0000015,477,Maternity,2025-05-09,2025-11-02,Completed,Alice Johnson
+EP0000016,882,Case Management,2025-09-25,,Open,Carla Davis
+EP0000017,305,High Risk,2026-01-17,2026-01-30,Closed,Daniel Lopez
+EP0000018,712,Disease Management,2025-10-27,2026-02-03,Completed,Daniel Lopez
+EP0000019,442,Case Management,2025-09-22,2026-02-23,Completed,Emily Chen
+EP0000020,962,Case Management,2026-01-06,2026-02-18,Unable to Reach,Carla Davis
+EP0000021,481,High Risk,2026-02-28,2026-04-10,Closed,Alice Johnson
+EP0000022,520,High Risk,2025-09-12,,Open,Alice Johnson
+EP0000023,90,High Risk,2025-10-14,2025-12-08,Completed,Carla Davis
+EP0000024,759,Disease Management,2025-09-14,,Open,Daniel Lopez
+EP0000025,208,Behavioral Health,2025-06-26,2025-07-15,Completed,Carla Davis
+EP0000026,651,Maternity,2025-08-04,2025-11-27,Unable to Reach,Daniel Lopez
+EP0000027,1000,Behavioral Health,2025-05-21,2025-08-11,Unable to Reach,Brian Smith
+EP0000028,876,Case Management,2025-04-30,2026-04-01,Closed,Fatima Khan
+EP0000029,38,Disease Management,2025-08-08,,Open,Carla Davis
+EP0000030,848,Disease Management,2026-02-18,2026-03-04,Completed,Daniel Lopez
+EP0000031,625,Case Management,2025-12-29,2026-01-12,Closed,Daniel Lopez
+EP0000032,603,Behavioral Health,2026-01-29,2026-04-16,Unable to Reach,Emily Chen
+EP0000033,758,Maternity,2025-10-11,2026-01-08,Unable to Reach,Alice Johnson
+EP0000034,302,Behavioral Health,2025-05-30,2026-01-22,Completed,Carla Davis
+EP0000035,306,Case Management,2025-08-02,2025-12-10,Unable to Reach,Fatima Khan
+EP0000036,895,Disease Management,2026-01-11,2026-01-30,Unable to Reach,Carla Davis
+EP0000037,368,Case Management,2025-09-07,,Open,Carla Davis
+EP0000038,271,High Risk,2026-01-07,2026-03-13,Closed,Alice Johnson
+EP0000039,405,Behavioral Health,2026-01-29,,Open,Fatima Khan
+EP0000040,261,Maternity,2025-12-11,2026-02-14,Completed,Carla Davis
+EP0000041,643,High Risk,2026-01-11,2026-01-21,Unable to Reach,Daniel Lopez
+EP0000042,475,Disease Management,2025-08-11,2025-08-24,Unable to Reach,Daniel Lopez
+EP0000043,531,High Risk,2025-08-14,2025-09-14,Completed,Emily Chen
+EP0000044,671,Disease Management,2026-01-05,2026-03-06,Unable to Reach,Fatima Khan
+EP0000045,308,Case Management,2025-04-27,,Open,Brian Smith
+EP0000046,574,Case Management,2025-04-25,2025-11-16,Closed,Fatima Khan
+EP0000047,254,Behavioral Health,2025-07-18,2025-11-11,Completed,Daniel Lopez
+EP0000048,255,Behavioral Health,2026-01-29,2026-03-27,Closed,Emily Chen
+EP0000049,403,High Risk,2025-11-02,2026-03-18,Unable to Reach,Carla Davis
+EP0000050,200,Disease Management,2025-10-21,2026-02-11,Completed,Fatima Khan
+EP0000051,766,Case Management,2025-04-20,2025-11-27,Unable to Reach,Daniel Lopez
+EP0000052,202,High Risk,2025-11-24,2025-11-26,Completed,Daniel Lopez
+EP0000053,39,Case Management,2025-07-31,2025-09-26,Closed,Emily Chen
+EP0000054,394,Behavioral Health,2025-11-07,2026-01-31,Unable to Reach,Carla Davis
+EP0000055,48,Case Management,2025-08-31,2026-03-10,Unable to Reach,Fatima Khan
+EP0000056,76,Disease Management,2026-02-13,,Open,Carla Davis
+EP0000057,201,Case Management,2026-03-07,,Open,Brian Smith
+EP0000058,431,High Risk,2025-04-27,2026-03-08,Closed,Emily Chen
+EP0000059,451,Behavioral Health,2025-12-07,2025-12-08,Unable to Reach,Brian Smith
+EP0000060,209,Case Management,2025-05-27,2025-10-04,Unable to Reach,Emily Chen
+EP0000061,914,Case Management,2025-08-10,2026-02-25,Completed,Daniel Lopez
+EP0000062,827,Case Management,2025-04-29,2025-11-07,Completed,Daniel Lopez
+EP0000063,79,Maternity,2025-06-09,,Open,Daniel Lopez
+EP0000064,623,Behavioral Health,2025-08-11,2026-01-09,Closed,Brian Smith
+EP0000065,812,Behavioral Health,2025-10-11,2025-11-18,Completed,Alice Johnson
+EP0000066,176,Behavioral Health,2026-01-31,,Open,Brian Smith
+EP0000067,270,Behavioral Health,2025-07-29,2025-11-14,Closed,Alice Johnson
+EP0000068,448,Behavioral Health,2025-09-05,,Open,Carla Davis
+EP0000069,955,Case Management,2026-01-29,,Open,Daniel Lopez
+EP0000070,925,Disease Management,2025-08-18,,Open,Alice Johnson
+EP0000071,287,Case Management,2025-08-27,2026-01-11,Completed,Brian Smith
+EP0000072,671,Maternity,2025-04-24,2025-10-03,Unable to Reach,Fatima Khan
+EP0000073,717,Behavioral Health,2026-01-23,2026-03-26,Closed,Alice Johnson
+EP0000074,371,Behavioral Health,2026-03-08,2026-03-08,Closed,Carla Davis
+EP0000075,431,Maternity,2025-12-29,,Open,Alice Johnson
+EP0000076,452,High Risk,2025-11-20,2026-02-23,Unable to Reach,Emily Chen
+EP0000077,20,Case Management,2025-09-17,2026-04-17,Closed,Fatima Khan
+EP0000078,312,Disease Management,2025-12-07,2026-02-18,Unable to Reach,Brian Smith
+EP0000079,582,Maternity,2026-01-23,,Open,Fatima Khan
+EP0000080,309,Behavioral Health,2025-07-21,,Open,Fatima Khan
+EP0000081,704,High Risk,2025-06-23,2025-08-05,Unable to Reach,Brian Smith
+EP0000082,591,Maternity,2025-08-26,2025-09-30,Unable to Reach,Brian Smith
+EP0000083,44,Behavioral Health,2025-06-04,,Open,Alice Johnson
+EP0000084,815,Case Management,2025-07-10,2025-09-14,Closed,Alice Johnson
+EP0000085,183,High Risk,2025-07-11,2025-11-10,Closed,Daniel Lopez
+EP0000086,225,Disease Management,2025-10-09,,Open,Daniel Lopez
+EP0000087,236,High Risk,2025-07-26,,Open,Brian Smith
+EP0000088,938,Case Management,2025-06-03,2025-11-13,Unable to Reach,Fatima Khan
+EP0000089,977,Disease Management,2025-06-04,2025-08-07,Completed,Fatima Khan
+EP0000090,954,High Risk,2025-07-13,2025-07-28,Completed,Daniel Lopez
+EP0000091,476,Disease Management,2025-05-17,,Open,Carla Davis
+EP0000092,918,High Risk,2025-12-12,,Open,Brian Smith
+EP0000093,269,Maternity,2025-11-12,2026-02-02,Unable to Reach,Fatima Khan
+EP0000094,536,Case Management,2025-11-27,2026-04-03,Unable to Reach,Brian Smith
+EP0000095,11,High Risk,2026-03-14,2026-03-25,Completed,Carla Davis
+EP0000096,740,Disease Management,2026-01-05,2026-02-20,Completed,Brian Smith
+EP0000097,773,Behavioral Health,2025-12-13,2026-02-22,Completed,Daniel Lopez
+EP0000098,309,Case Management,2025-07-15,2026-01-09,Completed,Alice Johnson
+EP0000099,797,Maternity,2025-07-14,2026-01-03,Unable to Reach,Carla Davis
+EP0000100,622,Maternity,2026-02-02,,Open,Brian Smith
+EP0000101,441,Disease Management,2026-01-18,2026-03-09,Closed,Fatima Khan
+EP0000102,454,Behavioral Health,2025-10-05,2026-01-10,Completed,Alice Johnson
+EP0000103,164,Maternity,2025-11-11,,Open,Daniel Lopez
+EP0000104,840,Case Management,2026-03-11,2026-03-23,Completed,Daniel Lopez
+EP0000105,555,Disease Management,2025-08-27,2025-10-25,Closed,Alice Johnson
+EP0000106,902,Maternity,2025-09-24,2025-10-27,Completed,Carla Davis
+EP0000107,245,High Risk,2026-01-17,,Open,Emily Chen
+EP0000108,722,Maternity,2025-09-20,2026-04-01,Unable to Reach,Alice Johnson
+EP0000109,36,Behavioral Health,2026-01-08,2026-02-21,Closed,Alice Johnson
+EP0000110,153,Maternity,2025-10-02,,Open,Brian Smith
+EP0000111,850,High Risk,2025-09-18,2026-02-01,Unable to Reach,Emily Chen
+EP0000112,162,Maternity,2025-06-21,,Open,Emily Chen
+EP0000113,907,Case Management,2025-10-10,2025-10-30,Unable to Reach,Alice Johnson
+EP0000114,948,High Risk,2025-10-30,2026-03-31,Unable to Reach,Carla Davis
+EP0000115,40,Disease Management,2025-06-02,2026-03-02,Unable to Reach,Carla Davis
+EP0000116,613,Maternity,2025-09-30,,Open,Daniel Lopez
+EP0000117,209,High Risk,2025-09-11,2026-03-31,Completed,Emily Chen
+EP0000118,3,Behavioral Health,2025-05-30,2026-01-29,Closed,Emily Chen
+EP0000119,463,Disease Management,2026-02-03,2026-04-06,Unable to Reach,Alice Johnson
+EP0000120,873,Behavioral Health,2025-08-03,2025-08-26,Unable to Reach,Daniel Lopez
+EP0000121,926,High Risk,2025-12-28,,Open,Alice Johnson
+EP0000122,685,Case Management,2025-10-24,2026-03-09,Closed,Fatima Khan
+EP0000123,754,Case Management,2025-05-05,2025-11-12,Unable to Reach,Brian Smith
+EP0000124,985,Disease Management,2025-12-20,,Open,Daniel Lopez
+EP0000125,228,Maternity,2025-11-25,2026-02-13,Closed,Brian Smith
+EP0000126,953,Case Management,2025-10-17,2026-01-30,Closed,Emily Chen
+EP0000127,675,Behavioral Health,2026-03-09,2026-04-04,Unable to Reach,Fatima Khan
+EP0000128,496,Case Management,2026-02-08,,Open,Carla Davis
+EP0000129,526,Maternity,2025-08-04,2026-02-14,Unable to Reach,Fatima Khan
+EP0000130,366,Maternity,2025-06-26,2025-11-15,Completed,Brian Smith
+EP0000131,571,Case Management,2025-05-17,,Open,Alice Johnson
+EP0000132,915,High Risk,2025-09-02,2026-04-12,Closed,Alice Johnson
+EP0000133,696,Behavioral Health,2026-02-21,2026-04-07,Closed,Daniel Lopez
+EP0000134,971,Case Management,2025-11-12,2026-03-17,Completed,Daniel Lopez
+EP0000135,812,Case Management,2025-08-03,2025-09-13,Completed,Emily Chen
+EP0000136,524,High Risk,2025-07-11,2025-11-12,Closed,Daniel Lopez
+EP0000137,955,Disease Management,2026-01-16,2026-02-15,Unable to Reach,Alice Johnson
+EP0000138,14,High Risk,2026-03-14,2026-03-17,Unable to Reach,Emily Chen
+EP0000139,82,High Risk,2026-03-09,2026-03-27,Unable to Reach,Alice Johnson
+EP0000140,725,Case Management,2026-03-03,,Open,Brian Smith
+EP0000141,447,Behavioral Health,2025-12-15,2026-01-04,Closed,Emily Chen
+EP0000142,745,High Risk,2025-06-18,2025-10-03,Completed,Fatima Khan
+EP0000143,408,Case Management,2025-07-19,2025-10-08,Closed,Alice Johnson
+EP0000144,152,Disease Management,2025-10-05,2025-11-01,Unable to Reach,Daniel Lopez
+EP0000145,762,Disease Management,2025-12-01,,Open,Daniel Lopez
+EP0000146,642,Maternity,2025-06-28,2025-10-02,Closed,Alice Johnson
+EP0000147,907,Behavioral Health,2026-03-06,2026-03-29,Closed,Alice Johnson
+EP0000148,487,Behavioral Health,2025-08-01,2025-12-17,Closed,Fatima Khan
+EP0000149,288,Maternity,2025-07-04,2025-09-14,Closed,Emily Chen
+EP0000150,267,Disease Management,2025-08-12,2026-01-18,Unable to Reach,Carla Davis
+EP0000151,485,High Risk,2025-10-02,2026-03-28,Completed,Alice Johnson
+EP0000152,308,High Risk,2026-01-08,2026-02-25,Unable to Reach,Carla Davis
+EP0000153,431,Case Management,2025-08-13,2025-09-12,Closed,Brian Smith
+EP0000154,422,Disease Management,2025-11-25,,Open,Brian Smith
+EP0000155,392,Maternity,2025-07-21,,Open,Carla Davis
+EP0000156,963,Disease Management,2026-02-03,,Open,Emily Chen
+EP0000157,106,High Risk,2025-06-02,2025-10-23,Closed,Carla Davis
+EP0000158,21,Disease Management,2026-02-28,,Open,Daniel Lopez
+EP0000159,208,Case Management,2026-02-27,2026-03-05,Unable to Reach,Brian Smith
+EP0000160,426,Maternity,2025-12-05,2025-12-20,Completed,Emily Chen
+EP0000161,74,Maternity,2026-03-06,,Open,Fatima Khan
+EP0000162,379,Maternity,2025-10-20,2026-03-15,Unable to Reach,Alice Johnson
+EP0000163,996,Case Management,2025-10-26,2026-01-07,Completed,Carla Davis
+EP0000164,87,Maternity,2025-12-06,2026-04-18,Completed,Carla Davis
+EP0000165,108,Behavioral Health,2026-02-15,2026-04-16,Closed,Daniel Lopez
+EP0000166,485,Case Management,2025-06-30,,Open,Daniel Lopez
+EP0000167,425,Behavioral Health,2025-08-17,2026-04-09,Unable to Reach,Brian Smith
+EP0000168,315,Case Management,2025-05-31,2026-04-10,Closed,Daniel Lopez
+EP0000169,643,Maternity,2025-11-10,2026-03-31,Unable to Reach,Carla Davis
+EP0000170,250,Disease Management,2025-05-07,2026-03-30,Unable to Reach,Alice Johnson
+EP0000171,213,Behavioral Health,2025-07-27,2026-04-08,Closed,Alice Johnson
+EP0000172,256,Behavioral Health,2025-09-11,2025-12-30,Closed,Alice Johnson
+EP0000173,841,Maternity,2026-01-19,2026-02-10,Unable to Reach,Alice Johnson
+EP0000174,91,Disease Management,2025-04-23,2026-02-09,Closed,Carla Davis
+EP0000175,512,Disease Management,2025-11-20,2025-11-22,Unable to Reach,Carla Davis
+EP0000176,615,Case Management,2025-09-09,2025-11-24,Unable to Reach,Alice Johnson
+EP0000177,660,Behavioral Health,2025-10-23,,Open,Alice Johnson
+EP0000178,626,Behavioral Health,2026-03-11,,Open,Fatima Khan
+EP0000179,615,Behavioral Health,2025-12-18,,Open,Carla Davis
+EP0000180,336,High Risk,2025-12-07,,Open,Daniel Lopez
+EP0000181,584,Case Management,2025-06-17,2025-08-12,Unable to Reach,Fatima Khan
+EP0000182,123,High Risk,2026-02-03,2026-03-05,Completed,Daniel Lopez
+EP0000183,188,Case Management,2026-02-24,2026-04-14,Closed,Carla Davis
+EP0000184,2,Case Management,2025-11-19,2026-01-16,Unable to Reach,Alice Johnson
+EP0000185,901,Maternity,2025-12-24,,Open,Daniel Lopez
+EP0000186,864,Behavioral Health,2025-08-13,2025-10-02,Completed,Carla Davis
+EP0000187,567,Case Management,2025-09-22,2025-10-09,Closed,Carla Davis
+EP0000188,967,Case Management,2025-10-19,2026-02-16,Closed,Fatima Khan
+EP0000189,213,Behavioral Health,2025-05-12,,Open,Alice Johnson
+EP0000190,233,Case Management,2025-07-24,,Open,Daniel Lopez
+EP0000191,725,High Risk,2026-02-08,2026-02-11,Completed,Brian Smith
+EP0000192,2,Disease Management,2025-08-21,2025-08-29,Completed,Daniel Lopez
+EP0000193,266,Disease Management,2025-11-15,2026-03-03,Unable to Reach,Emily Chen
+EP0000194,641,High Risk,2025-08-01,2025-11-03,Closed,Emily Chen
+EP0000195,64,Maternity,2025-08-13,2026-04-08,Unable to Reach,Emily Chen
+EP0000196,486,Maternity,2025-09-02,2025-11-28,Completed,Alice Johnson
+EP0000197,840,Disease Management,2026-01-09,2026-01-29,Closed,Fatima Khan
+EP0000198,784,Maternity,2026-02-05,2026-04-02,Completed,Emily Chen
+EP0000199,419,High Risk,2025-09-08,2025-11-12,Completed,Fatima Khan
+EP0000200,351,Case Management,2026-01-13,2026-04-02,Unable to Reach,Fatima Khan
+EP0000201,826,Maternity,2026-02-22,2026-03-31,Closed,Daniel Lopez
+EP0000202,497,Maternity,2025-07-12,2025-11-15,Unable to Reach,Fatima Khan
+EP0000203,219,High Risk,2026-01-29,2026-03-02,Completed,Carla Davis
+EP0000204,428,High Risk,2025-05-09,2025-11-13,Unable to Reach,Alice Johnson
+EP0000205,964,Behavioral Health,2025-05-19,2026-02-11,Closed,Fatima Khan
+EP0000206,714,Behavioral Health,2025-12-01,2026-03-02,Closed,Daniel Lopez
+EP0000207,746,Case Management,2026-03-03,2026-04-05,Closed,Carla Davis
+EP0000208,468,Case Management,2026-01-11,2026-01-21,Unable to Reach,Carla Davis
+EP0000209,750,Behavioral Health,2026-02-25,2026-02-25,Closed,Emily Chen
+EP0000210,381,Behavioral Health,2025-11-04,2026-01-16,Unable to Reach,Alice Johnson
+EP0000211,827,Disease Management,2025-09-23,,Open,Daniel Lopez
+EP0000212,857,Behavioral Health,2026-03-02,,Open,Alice Johnson
+EP0000213,35,Case Management,2025-12-29,2026-01-22,Closed,Daniel Lopez
+EP0000214,872,Disease Management,2025-06-10,,Open,Emily Chen
+EP0000215,590,Case Management,2025-12-19,,Open,Fatima Khan
+EP0000216,937,High Risk,2025-08-10,2025-10-02,Unable to Reach,Carla Davis
+EP0000217,117,Behavioral Health,2025-10-14,2025-10-14,Completed,Daniel Lopez
+EP0000218,605,Behavioral Health,2025-09-01,2026-03-17,Completed,Brian Smith
+EP0000219,607,Case Management,2025-05-24,,Open,Daniel Lopez
+EP0000220,572,Disease Management,2025-10-08,,Open,Alice Johnson
+EP0000221,22,Disease Management,2025-05-24,,Open,Brian Smith
+EP0000222,216,Maternity,2025-05-30,2026-03-28,Closed,Alice Johnson
+EP0000223,957,Maternity,2025-11-29,2026-01-21,Closed,Carla Davis
+EP0000224,58,Case Management,2026-02-15,2026-04-18,Unable to Reach,Alice Johnson
+EP0000225,231,Disease Management,2025-08-12,2026-04-02,Closed,Carla Davis
+EP0000226,411,Disease Management,2025-08-17,2025-10-09,Completed,Daniel Lopez
+EP0000227,420,High Risk,2025-04-29,,Open,Alice Johnson
+EP0000228,717,Behavioral Health,2025-10-17,2025-10-18,Unable to Reach,Daniel Lopez
+EP0000229,448,Maternity,2025-10-21,2025-11-16,Unable to Reach,Emily Chen
+EP0000230,71,Behavioral Health,2025-12-01,2025-12-23,Unable to Reach,Alice Johnson
+EP0000231,52,Behavioral Health,2025-12-16,2026-02-22,Completed,Alice Johnson
+EP0000232,176,Maternity,2025-08-17,2025-10-07,Closed,Alice Johnson
+EP0000233,708,Behavioral Health,2025-10-25,2026-03-20,Closed,Alice Johnson
+EP0000234,235,High Risk,2025-10-16,,Open,Alice Johnson
+EP0000235,183,Case Management,2025-06-13,,Open,Daniel Lopez
+EP0000236,464,Disease Management,2025-12-06,2026-03-11,Completed,Daniel Lopez
+EP0000237,477,Maternity,2025-08-21,2025-11-17,Unable to Reach,Carla Davis
+EP0000238,950,Disease Management,2025-06-05,2025-07-16,Unable to Reach,Emily Chen
+EP0000239,601,Case Management,2025-12-22,2026-01-14,Completed,Daniel Lopez
+EP0000240,567,Behavioral Health,2025-07-02,,Open,Fatima Khan
+EP0000241,109,Disease Management,2025-08-24,2026-01-27,Closed,Fatima Khan
+EP0000242,797,High Risk,2025-11-24,2025-12-08,Closed,Daniel Lopez
+EP0000243,714,Behavioral Health,2025-12-25,2026-03-21,Unable to Reach,Carla Davis
+EP0000244,581,Disease Management,2025-05-29,2025-07-07,Unable to Reach,Emily Chen
+EP0000245,738,Maternity,2026-01-16,2026-03-31,Completed,Alice Johnson
+EP0000246,325,Case Management,2025-12-31,2026-03-13,Unable to Reach,Carla Davis
+EP0000247,304,High Risk,2025-10-24,,Open,Emily Chen
+EP0000248,671,Behavioral Health,2025-12-29,,Open,Brian Smith
+EP0000249,961,Maternity,2025-07-07,,Open,Brian Smith
+EP0000250,819,High Risk,2026-02-19,2026-03-04,Closed,Fatima Khan
+EP0000251,31,Disease Management,2025-12-22,2026-03-12,Closed,Fatima Khan
+EP0000252,404,Maternity,2025-07-05,,Open,Alice Johnson
+EP0000253,427,Maternity,2026-03-13,,Open,Fatima Khan
+EP0000254,30,High Risk,2025-12-09,2025-12-31,Unable to Reach,Daniel Lopez
+EP0000255,793,Maternity,2025-05-12,,Open,Daniel Lopez
+EP0000256,888,Disease Management,2025-11-11,,Open,Brian Smith
+EP0000257,275,Behavioral Health,2025-07-14,,Open,Daniel Lopez
+EP0000258,325,Case Management,2025-05-14,2026-03-20,Unable to Reach,Carla Davis
+EP0000259,220,Maternity,2026-02-02,2026-03-14,Completed,Daniel Lopez
+EP0000260,577,Case Management,2025-09-03,2025-11-18,Completed,Carla Davis
+EP0000261,184,Behavioral Health,2025-07-28,2025-12-26,Unable to Reach,Daniel Lopez
+EP0000262,395,Maternity,2025-07-30,2025-09-12,Completed,Alice Johnson
+EP0000263,387,Behavioral Health,2025-08-12,2025-12-10,Completed,Alice Johnson
+EP0000264,914,Behavioral Health,2025-09-16,2025-10-13,Completed,Brian Smith
+EP0000265,225,Behavioral Health,2025-11-29,2026-02-13,Closed,Fatima Khan
+EP0000266,565,Behavioral Health,2026-02-05,2026-02-28,Completed,Carla Davis
+EP0000267,414,Case Management,2025-05-01,2025-06-08,Closed,Emily Chen
+EP0000268,643,High Risk,2026-01-21,2026-02-27,Closed,Alice Johnson
+EP0000269,619,Behavioral Health,2025-07-03,2025-08-22,Unable to Reach,Daniel Lopez
+EP0000270,941,Maternity,2025-07-11,,Open,Fatima Khan
+EP0000271,100,Disease Management,2025-12-18,2026-03-10,Unable to Reach,Brian Smith
+EP0000272,265,Case Management,2026-01-31,2026-03-20,Completed,Alice Johnson
+EP0000273,978,Disease Management,2026-02-16,2026-02-24,Closed,Brian Smith
+EP0000274,164,High Risk,2025-05-07,2025-06-30,Completed,Emily Chen
+EP0000275,452,Maternity,2025-11-11,2026-01-05,Completed,Emily Chen
+EP0000276,560,High Risk,2026-01-06,,Open,Carla Davis
+EP0000277,468,Behavioral Health,2026-01-30,2026-02-04,Closed,Daniel Lopez
+EP0000278,192,Case Management,2025-07-10,,Open,Brian Smith
+EP0000279,884,Maternity,2025-07-13,,Open,Alice Johnson
+EP0000280,981,Behavioral Health,2025-05-01,2025-07-14,Unable to Reach,Daniel Lopez
+EP0000281,715,Disease Management,2025-11-01,2026-02-16,Closed,Carla Davis
+EP0000282,28,Case Management,2025-05-11,2026-01-07,Completed,Brian Smith
+EP0000283,180,Disease Management,2025-09-16,2026-01-21,Completed,Brian Smith
+EP0000284,107,Maternity,2025-10-20,2025-11-02,Unable to Reach,Emily Chen
+EP0000285,128,Disease Management,2025-12-31,2026-01-04,Closed,Carla Davis
+EP0000286,25,High Risk,2025-12-06,,Open,Emily Chen
+EP0000287,561,Case Management,2025-06-29,2025-12-22,Completed,Brian Smith
+EP0000288,124,High Risk,2025-12-11,,Open,Fatima Khan
+EP0000289,513,High Risk,2025-09-26,2025-11-04,Unable to Reach,Daniel Lopez
+EP0000290,852,Case Management,2025-05-29,2025-06-04,Completed,Fatima Khan
+EP0000291,295,Maternity,2025-05-27,2025-09-05,Completed,Brian Smith
+EP0000292,656,Disease Management,2025-06-12,2025-08-24,Completed,Emily Chen
+EP0000293,946,High Risk,2025-11-15,2026-03-07,Closed,Daniel Lopez
+EP0000294,614,Maternity,2026-01-30,2026-02-06,Unable to Reach,Fatima Khan
+EP0000295,692,Case Management,2025-11-04,2026-01-25,Unable to Reach,Fatima Khan
+EP0000296,103,Disease Management,2025-10-13,2026-03-21,Unable to Reach,Daniel Lopez
+EP0000297,298,High Risk,2025-05-05,2026-01-28,Unable to Reach,Carla Davis
+EP0000298,562,Disease Management,2026-01-07,2026-02-02,Closed,Emily Chen
+EP0000299,851,High Risk,2025-04-18,2025-10-15,Completed,Carla Davis
+EP0000300,394,Maternity,2025-12-10,2026-01-04,Unable to Reach,Brian Smith
+EP0000301,856,Disease Management,2025-08-09,2026-02-22,Closed,Alice Johnson
+EP0000302,906,Maternity,2025-08-24,2026-02-01,Completed,Emily Chen
+EP0000303,560,High Risk,2025-07-01,,Open,Alice Johnson
+EP0000304,509,Disease Management,2026-02-04,2026-02-14,Unable to Reach,Brian Smith
+EP0000305,316,High Risk,2026-03-04,2026-03-26,Completed,Alice Johnson
+EP0000306,943,High Risk,2025-05-01,2026-03-16,Closed,Fatima Khan
+EP0000307,199,Disease Management,2025-12-24,2026-01-08,Unable to Reach,Daniel Lopez
+EP0000308,98,High Risk,2026-02-22,,Open,Daniel Lopez
+EP0000309,132,Disease Management,2025-11-19,2026-03-12,Closed,Fatima Khan
+EP0000310,186,Maternity,2026-01-23,2026-01-27,Unable to Reach,Emily Chen
+EP0000311,969,Behavioral Health,2025-07-02,2026-03-05,Completed,Emily Chen
+EP0000312,433,Behavioral Health,2025-08-18,,Open,Carla Davis
+EP0000313,698,High Risk,2025-08-19,2025-09-14,Unable to Reach,Carla Davis
+EP0000314,987,Case Management,2025-04-21,,Open,Brian Smith
+EP0000315,184,Behavioral Health,2026-02-16,2026-03-04,Unable to Reach,Brian Smith
+EP0000316,373,Case Management,2025-09-03,2025-10-15,Closed,Daniel Lopez
+EP0000317,533,Disease Management,2025-05-06,2025-07-15,Closed,Daniel Lopez
+EP0000318,13,Behavioral Health,2025-10-29,,Open,Daniel Lopez
+EP0000319,206,Disease Management,2025-09-20,,Open,Daniel Lopez
+EP0000320,473,High Risk,2025-10-23,2026-03-03,Completed,Carla Davis
+EP0000321,313,Maternity,2025-06-27,2026-01-19,Completed,Brian Smith
+EP0000322,730,Disease Management,2025-12-07,2026-02-19,Completed,Fatima Khan
+EP0000323,150,Behavioral Health,2026-03-18,2026-03-25,Closed,Emily Chen
+EP0000324,56,Maternity,2025-10-11,,Open,Brian Smith
+EP0000325,957,High Risk,2025-09-22,,Open,Fatima Khan
+EP0000326,653,Behavioral Health,2025-10-16,,Open,Emily Chen
+EP0000327,951,Behavioral Health,2025-09-18,2025-10-02,Completed,Fatima Khan
+EP0000328,553,Disease Management,2025-10-07,2025-11-21,Unable to Reach,Brian Smith
+EP0000329,374,Behavioral Health,2025-07-17,,Open,Carla Davis
+EP0000330,707,Maternity,2025-06-24,2026-02-22,Completed,Fatima Khan
+EP0000331,929,Case Management,2026-03-19,2026-03-24,Closed,Fatima Khan
+EP0000332,155,Case Management,2026-03-18,2026-03-24,Completed,Fatima Khan
+EP0000333,669,Disease Management,2026-01-30,2026-02-06,Closed,Alice Johnson
+EP0000334,310,Disease Management,2025-09-14,2025-12-31,Unable to Reach,Emily Chen
+EP0000335,305,Case Management,2025-10-11,2026-01-27,Unable to Reach,Daniel Lopez
+EP0000336,659,Maternity,2026-03-11,,Open,Emily Chen
+EP0000337,431,Case Management,2026-02-03,2026-02-07,Closed,Emily Chen
+EP0000338,527,Behavioral Health,2025-07-24,,Open,Emily Chen
+EP0000339,908,Behavioral Health,2025-12-02,2025-12-17,Unable to Reach,Carla Davis
+EP0000340,834,Maternity,2025-12-22,2026-01-20,Closed,Fatima Khan
+EP0000341,511,Maternity,2025-05-24,2026-01-08,Unable to Reach,Daniel Lopez
+EP0000342,908,Case Management,2025-04-20,2025-08-11,Completed,Carla Davis
+EP0000343,564,Maternity,2025-05-04,2026-02-13,Unable to Reach,Emily Chen
+EP0000344,388,High Risk,2026-02-14,,Open,Daniel Lopez
+EP0000345,582,Disease Management,2025-08-16,2026-03-16,Unable to Reach,Alice Johnson
+EP0000346,773,Maternity,2025-12-18,2026-04-15,Unable to Reach,Emily Chen
+EP0000347,367,High Risk,2025-05-12,2025-06-11,Completed,Brian Smith
+EP0000348,905,Disease Management,2025-08-15,2026-03-30,Completed,Daniel Lopez
+EP0000349,329,Case Management,2025-12-04,,Open,Brian Smith
+EP0000350,982,Maternity,2025-05-31,2025-08-20,Unable to Reach,Emily Chen
+EP0000351,415,Case Management,2025-11-22,2025-12-05,Unable to Reach,Daniel Lopez
+EP0000352,114,Maternity,2025-05-25,2025-11-07,Completed,Carla Davis
+EP0000353,221,High Risk,2025-09-28,2026-04-15,Unable to Reach,Alice Johnson
+EP0000354,50,Case Management,2025-11-02,2026-04-12,Closed,Alice Johnson
+EP0000355,881,Disease Management,2025-11-24,2025-12-22,Completed,Brian Smith
+EP0000356,513,Behavioral Health,2025-04-18,,Open,Carla Davis
+EP0000357,4,Case Management,2025-12-17,,Open,Daniel Lopez
+EP0000358,957,Maternity,2025-11-13,2026-04-02,Unable to Reach,Emily Chen
+EP0000359,187,Maternity,2025-10-11,,Open,Emily Chen
+EP0000360,551,Behavioral Health,2026-02-25,2026-03-01,Unable to Reach,Carla Davis
+EP0000361,271,High Risk,2025-05-25,,Open,Alice Johnson
+EP0000362,597,Behavioral Health,2025-11-28,,Open,Carla Davis
+EP0000363,581,High Risk,2025-07-08,2025-11-06,Closed,Brian Smith
+EP0000364,722,High Risk,2026-02-28,2026-03-04,Unable to Reach,Daniel Lopez
+EP0000365,56,Behavioral Health,2026-03-02,2026-03-04,Completed,Fatima Khan
+EP0000366,213,High Risk,2025-11-26,,Open,Carla Davis
+EP0000367,111,Case Management,2025-09-22,2025-10-24,Unable to Reach,Daniel Lopez
+EP0000368,421,Behavioral Health,2025-12-15,2026-01-29,Unable to Reach,Fatima Khan
+EP0000369,581,Case Management,2025-08-15,,Open,Carla Davis
+EP0000370,682,Maternity,2026-01-01,2026-01-09,Closed,Fatima Khan
+EP0000371,466,Behavioral Health,2026-01-10,2026-03-26,Closed,Fatima Khan
+EP0000372,898,High Risk,2026-02-04,2026-02-04,Unable to Reach,Carla Davis
+EP0000373,960,Disease Management,2026-03-12,2026-03-27,Completed,Fatima Khan
+EP0000374,776,Case Management,2026-03-18,2026-04-10,Completed,Alice Johnson
+EP0000375,286,Maternity,2025-05-03,2026-01-04,Unable to Reach,Carla Davis
+EP0000376,449,Case Management,2025-06-22,2026-01-26,Closed,Brian Smith
+EP0000377,639,Case Management,2026-02-02,2026-04-01,Closed,Emily Chen
+EP0000378,641,Maternity,2025-12-31,,Open,Alice Johnson
+EP0000379,664,High Risk,2025-07-04,,Open,Carla Davis
+EP0000380,605,High Risk,2025-07-28,,Open,Daniel Lopez
+EP0000381,182,Disease Management,2026-02-01,2026-02-16,Completed,Brian Smith
+EP0000382,852,Maternity,2025-12-20,2025-12-27,Closed,Emily Chen
+EP0000383,901,Case Management,2025-04-22,2025-11-04,Unable to Reach,Carla Davis
+EP0000384,505,High Risk,2025-05-04,2025-12-06,Closed,Daniel Lopez
+EP0000385,913,Maternity,2025-05-03,2025-05-14,Closed,Emily Chen
+EP0000386,471,Maternity,2025-07-25,2026-01-03,Unable to Reach,Carla Davis
+EP0000387,218,High Risk,2025-05-09,2025-05-24,Closed,Carla Davis
+EP0000388,210,Case Management,2025-07-08,2025-11-20,Unable to Reach,Brian Smith
+EP0000389,85,Disease Management,2025-07-29,2026-03-08,Unable to Reach,Carla Davis
+EP0000390,389,Behavioral Health,2025-11-04,2026-02-18,Closed,Daniel Lopez
+EP0000391,963,Maternity,2026-01-03,2026-03-04,Closed,Brian Smith
+EP0000392,720,Case Management,2025-09-08,2025-10-23,Unable to Reach,Fatima Khan
+EP0000393,969,Case Management,2026-02-26,2026-04-06,Completed,Emily Chen
+EP0000394,356,High Risk,2025-07-22,2026-04-17,Closed,Fatima Khan
+EP0000395,312,Behavioral Health,2025-11-17,2026-04-13,Unable to Reach,Brian Smith
+EP0000396,313,High Risk,2025-11-08,,Open,Emily Chen
+EP0000397,101,High Risk,2025-06-03,2026-01-22,Closed,Alice Johnson
+EP0000398,277,Maternity,2025-11-21,,Open,Carla Davis
+EP0000399,520,Case Management,2025-10-24,2026-01-14,Completed,Alice Johnson
+EP0000400,374,Case Management,2025-05-04,2025-10-21,Completed,Alice Johnson
+EP0000401,820,Disease Management,2025-07-04,2025-09-21,Completed,Fatima Khan
+EP0000402,258,Case Management,2025-07-05,2026-03-09,Completed,Brian Smith
+EP0000403,967,Case Management,2025-07-04,,Open,Fatima Khan
+EP0000404,299,Maternity,2026-02-19,2026-04-03,Unable to Reach,Daniel Lopez
+EP0000405,665,Case Management,2026-03-11,2026-03-30,Completed,Daniel Lopez
+EP0000406,280,Case Management,2025-05-19,2025-07-27,Closed,Fatima Khan
+EP0000407,491,Maternity,2026-02-04,2026-03-16,Closed,Emily Chen
+EP0000408,418,High Risk,2025-07-07,,Open,Emily Chen
+EP0000409,99,Maternity,2025-05-25,2026-02-05,Completed,Fatima Khan
+EP0000410,311,Behavioral Health,2025-05-31,2025-09-24,Unable to Reach,Fatima Khan
+EP0000411,318,Behavioral Health,2025-12-04,2026-01-15,Closed,Emily Chen
+EP0000412,593,Case Management,2025-11-15,,Open,Fatima Khan
+EP0000413,789,Case Management,2026-03-14,,Open,Carla Davis
+EP0000414,432,Maternity,2025-05-04,,Open,Carla Davis
+EP0000415,801,Behavioral Health,2026-01-16,,Open,Carla Davis
+EP0000416,306,Behavioral Health,2025-06-21,,Open,Carla Davis
+EP0000417,293,Disease Management,2025-05-26,2025-10-24,Unable to Reach,Carla Davis
+EP0000418,985,Case Management,2025-08-31,,Open,Carla Davis
+EP0000419,804,Case Management,2025-12-31,,Open,Emily Chen
+EP0000420,977,High Risk,2025-09-04,,Open,Carla Davis
+EP0000421,763,Disease Management,2025-06-26,2026-03-29,Completed,Emily Chen
+EP0000422,390,Case Management,2025-07-10,2026-02-17,Closed,Brian Smith
+EP0000423,837,Maternity,2025-07-10,2025-12-29,Completed,Daniel Lopez
+EP0000424,750,Behavioral Health,2026-03-17,,Open,Fatima Khan
+EP0000425,474,Disease Management,2025-10-11,2026-03-02,Completed,Daniel Lopez
+EP0000426,281,Maternity,2026-02-07,2026-03-05,Completed,Brian Smith
+EP0000427,593,Disease Management,2025-08-18,2025-12-26,Closed,Brian Smith
+EP0000428,445,Disease Management,2026-01-27,2026-02-12,Unable to Reach,Brian Smith
+EP0000429,712,High Risk,2025-04-30,2025-10-03,Unable to Reach,Alice Johnson
+EP0000430,881,Disease Management,2025-05-08,,Open,Carla Davis
+EP0000431,721,Disease Management,2026-01-10,,Open,Fatima Khan
+EP0000432,749,Behavioral Health,2025-11-21,2025-12-30,Closed,Daniel Lopez
+EP0000433,478,Disease Management,2025-09-14,2026-01-22,Completed,Emily Chen
+EP0000434,221,Behavioral Health,2025-11-02,2025-11-19,Closed,Carla Davis
+EP0000435,314,Disease Management,2025-04-29,,Open,Fatima Khan
+EP0000436,898,Disease Management,2025-06-08,,Open,Brian Smith
+EP0000437,96,Disease Management,2025-09-16,2026-02-25,Completed,Alice Johnson
+EP0000438,427,High Risk,2025-08-23,2026-03-13,Completed,Fatima Khan
+EP0000439,581,High Risk,2025-12-15,2025-12-21,Unable to Reach,Carla Davis
+EP0000440,396,Maternity,2026-02-06,2026-02-15,Unable to Reach,Fatima Khan
+EP0000441,123,Case Management,2026-01-19,2026-04-03,Completed,Fatima Khan
+EP0000442,535,Disease Management,2025-07-10,2025-07-30,Closed,Brian Smith
+EP0000443,488,Behavioral Health,2026-03-19,,Open,Alice Johnson
+EP0000444,748,High Risk,2025-12-05,,Open,Carla Davis
+EP0000445,17,Maternity,2025-11-09,2026-02-20,Closed,Daniel Lopez
+EP0000446,796,High Risk,2025-09-27,2025-11-07,Completed,Emily Chen
+EP0000447,202,High Risk,2025-04-30,2025-10-08,Closed,Carla Davis
+EP0000448,707,Maternity,2025-06-22,,Open,Emily Chen
+EP0000449,855,Behavioral Health,2025-07-23,,Open,Fatima Khan
+EP0000450,569,High Risk,2025-08-04,,Open,Brian Smith
+EP0000451,848,Disease Management,2025-11-26,2026-01-13,Closed,Alice Johnson
+EP0000452,778,Disease Management,2025-07-13,2026-03-20,Completed,Daniel Lopez
+EP0000453,966,High Risk,2026-02-18,2026-04-15,Completed,Carla Davis
+EP0000454,980,Behavioral Health,2025-10-15,2026-01-14,Unable to Reach,Carla Davis
+EP0000455,955,Behavioral Health,2025-07-03,,Open,Brian Smith
+EP0000456,506,Maternity,2025-12-17,,Open,Alice Johnson
+EP0000457,45,High Risk,2025-08-12,,Open,Fatima Khan
+EP0000458,409,High Risk,2026-03-08,2026-04-01,Unable to Reach,Brian Smith
+EP0000459,327,Behavioral Health,2025-10-20,2026-03-05,Completed,Alice Johnson
+EP0000460,601,Maternity,2025-11-27,2026-03-05,Completed,Brian Smith
+EP0000461,92,Disease Management,2025-05-25,2025-12-23,Completed,Carla Davis
+EP0000462,936,Disease Management,2025-10-18,2026-02-04,Completed,Carla Davis
+EP0000463,100,Behavioral Health,2025-09-04,2025-09-14,Closed,Emily Chen
+EP0000464,777,Case Management,2025-12-06,,Open,Daniel Lopez
+EP0000465,228,High Risk,2025-11-14,,Open,Brian Smith
+EP0000466,460,High Risk,2025-08-27,2025-12-19,Unable to Reach,Daniel Lopez
+EP0000467,604,Case Management,2025-05-01,,Open,Carla Davis
+EP0000468,943,High Risk,2025-10-08,,Open,Carla Davis
+EP0000469,596,Disease Management,2026-01-07,2026-02-17,Closed,Alice Johnson
+EP0000470,855,Maternity,2026-03-07,2026-03-22,Unable to Reach,Daniel Lopez
+EP0000471,900,Case Management,2025-08-02,2025-12-05,Completed,Carla Davis
+EP0000472,587,High Risk,2025-12-09,2025-12-10,Unable to Reach,Carla Davis
+EP0000473,186,Behavioral Health,2026-01-25,2026-02-19,Completed,Alice Johnson
+EP0000474,90,Behavioral Health,2025-10-12,2026-01-14,Unable to Reach,Fatima Khan
+EP0000475,512,Disease Management,2025-10-08,2026-03-30,Closed,Alice Johnson
+EP0000476,258,Maternity,2025-10-29,2025-12-20,Completed,Daniel Lopez
+EP0000477,437,Case Management,2025-05-19,2025-10-29,Unable to Reach,Alice Johnson
+EP0000478,983,Disease Management,2025-11-06,,Open,Brian Smith
+EP0000479,507,Case Management,2025-07-31,2025-08-31,Completed,Carla Davis
+EP0000480,83,Behavioral Health,2025-04-21,2025-10-17,Completed,Carla Davis
+EP0000481,87,Case Management,2025-12-29,2026-03-22,Completed,Brian Smith
+EP0000482,668,Behavioral Health,2025-08-11,2025-10-28,Closed,Emily Chen
+EP0000483,994,Case Management,2025-11-12,2025-11-30,Unable to Reach,Daniel Lopez
+EP0000484,929,Disease Management,2025-09-27,2026-04-14,Closed,Emily Chen
+EP0000485,218,High Risk,2025-12-13,2025-12-13,Completed,Daniel Lopez
+EP0000486,471,Disease Management,2026-02-01,2026-02-22,Completed,Daniel Lopez
+EP0000487,582,Maternity,2025-05-17,,Open,Daniel Lopez
+EP0000488,530,Case Management,2025-06-05,,Open,Daniel Lopez
+EP0000489,999,High Risk,2025-08-26,2025-09-21,Closed,Carla Davis
+EP0000490,676,Behavioral Health,2026-01-16,2026-04-15,Closed,Daniel Lopez
+EP0000491,96,Case Management,2026-01-29,2026-02-01,Completed,Alice Johnson
+EP0000492,106,Disease Management,2026-03-11,2026-04-11,Closed,Daniel Lopez
+EP0000493,986,Behavioral Health,2025-11-07,2025-12-27,Completed,Brian Smith
+EP0000494,950,High Risk,2026-02-17,,Open,Emily Chen
+EP0000495,485,Maternity,2026-01-01,2026-03-23,Unable to Reach,Alice Johnson
+EP0000496,964,Disease Management,2025-09-29,2025-10-15,Unable to Reach,Alice Johnson
+EP0000497,109,Disease Management,2025-07-19,2026-03-08,Completed,Fatima Khan
+EP0000498,353,Disease Management,2025-09-26,2026-02-23,Unable to Reach,Fatima Khan
+EP0000499,966,High Risk,2025-12-27,,Open,Carla Davis
+EP0000500,856,Behavioral Health,2025-10-10,2026-03-21,Completed,Emily Chen
+EP0000501,993,Maternity,2025-07-16,2025-12-29,Completed,Carla Davis
+EP0000502,255,Case Management,2025-12-17,2025-12-29,Unable to Reach,Daniel Lopez
+EP0000503,850,Disease Management,2026-01-09,2026-02-26,Completed,Daniel Lopez
+EP0000504,670,Maternity,2025-07-26,,Open,Brian Smith
+EP0000505,400,Case Management,2026-02-15,2026-02-19,Closed,Daniel Lopez
+EP0000506,873,Behavioral Health,2025-09-20,2026-01-01,Closed,Brian Smith
+EP0000507,213,Behavioral Health,2025-12-21,,Open,Brian Smith
+EP0000508,11,Case Management,2025-07-13,2026-02-24,Closed,Daniel Lopez
+EP0000509,873,Maternity,2025-07-22,,Open,Brian Smith
+EP0000510,849,Disease Management,2025-12-18,2026-02-21,Completed,Alice Johnson
+EP0000511,789,Behavioral Health,2025-11-02,2026-01-25,Closed,Brian Smith
+EP0000512,282,High Risk,2025-12-13,2025-12-26,Completed,Daniel Lopez
+EP0000513,46,Behavioral Health,2025-09-15,,Open,Alice Johnson
+EP0000514,927,Case Management,2025-10-07,2025-10-23,Completed,Emily Chen
+EP0000515,150,Case Management,2026-01-27,2026-02-11,Completed,Brian Smith
+EP0000516,440,Case Management,2026-02-26,,Open,Brian Smith
+EP0000517,460,Maternity,2025-05-26,,Open,Carla Davis
+EP0000518,727,High Risk,2026-01-13,2026-04-03,Closed,Brian Smith
+EP0000519,614,Behavioral Health,2026-01-02,,Open,Alice Johnson
+EP0000520,689,Disease Management,2025-07-29,2025-08-24,Completed,Emily Chen
+EP0000521,69,High Risk,2025-11-26,,Open,Brian Smith
+EP0000522,191,Disease Management,2025-12-15,,Open,Brian Smith
+EP0000523,932,Behavioral Health,2025-04-25,2025-07-23,Closed,Fatima Khan
+EP0000524,763,High Risk,2025-05-26,2026-03-21,Unable to Reach,Daniel Lopez
+EP0000525,166,Maternity,2025-04-26,2026-03-26,Completed,Brian Smith
+EP0000526,839,Disease Management,2026-01-26,,Open,Alice Johnson
+EP0000527,191,Disease Management,2025-09-29,2026-01-14,Closed,Fatima Khan
+EP0000528,205,Case Management,2025-10-28,2026-01-15,Unable to Reach,Daniel Lopez
+EP0000529,276,Disease Management,2026-02-19,,Open,Carla Davis
+EP0000530,905,High Risk,2025-07-09,2026-03-30,Completed,Alice Johnson
+EP0000531,176,Case Management,2025-11-29,2025-12-03,Unable to Reach,Emily Chen
+EP0000532,661,Case Management,2025-06-30,2026-02-26,Closed,Emily Chen
+EP0000533,716,Maternity,2025-07-13,2026-01-30,Unable to Reach,Alice Johnson
+EP0000534,423,Behavioral Health,2026-01-03,2026-04-18,Unable to Reach,Alice Johnson
+EP0000535,164,Maternity,2025-08-23,,Open,Fatima Khan
+EP0000536,67,Case Management,2025-12-08,,Open,Carla Davis
+EP0000537,597,High Risk,2026-02-25,2026-02-28,Closed,Carla Davis
+EP0000538,865,High Risk,2025-09-29,2026-01-15,Closed,Daniel Lopez
+EP0000539,771,Maternity,2025-11-08,,Open,Alice Johnson
+EP0000540,108,Disease Management,2025-07-11,2026-01-22,Closed,Fatima Khan
+EP0000541,1000,Case Management,2025-04-30,2025-08-28,Unable to Reach,Carla Davis
+EP0000542,367,High Risk,2025-05-04,2025-08-10,Closed,Alice Johnson
+EP0000543,870,High Risk,2026-02-15,2026-04-03,Unable to Reach,Emily Chen
+EP0000544,820,Case Management,2025-11-11,2026-01-09,Closed,Brian Smith
+EP0000545,613,Disease Management,2025-05-24,2025-08-30,Closed,Alice Johnson
+EP0000546,193,Case Management,2026-03-01,,Open,Emily Chen
+EP0000547,337,High Risk,2025-05-06,2026-02-21,Closed,Daniel Lopez
+EP0000548,32,Disease Management,2025-11-18,,Open,Fatima Khan
+EP0000549,566,Behavioral Health,2025-10-22,2026-04-04,Completed,Carla Davis
+EP0000550,927,Disease Management,2025-10-28,2025-12-26,Unable to Reach,Carla Davis
+EP0000551,46,Disease Management,2025-11-16,2026-01-07,Unable to Reach,Emily Chen
+EP0000552,539,Case Management,2025-11-27,2026-01-22,Closed,Brian Smith
+EP0000553,117,Behavioral Health,2025-12-22,2026-01-02,Closed,Emily Chen
+EP0000554,971,High Risk,2025-11-19,2025-11-19,Closed,Daniel Lopez
+EP0000555,446,Behavioral Health,2025-07-18,2026-01-10,Completed,Emily Chen
+EP0000556,760,Maternity,2026-01-24,2026-02-19,Unable to Reach,Daniel Lopez
+EP0000557,773,Maternity,2025-10-17,,Open,Fatima Khan
+EP0000558,806,High Risk,2025-09-06,2026-03-08,Completed,Daniel Lopez
+EP0000559,975,Behavioral Health,2026-01-21,2026-02-16,Completed,Emily Chen
+EP0000560,601,Disease Management,2025-06-09,2026-03-22,Closed,Daniel Lopez
+EP0000561,776,Case Management,2025-09-23,2026-03-09,Unable to Reach,Alice Johnson
+EP0000562,647,High Risk,2025-10-14,2025-12-20,Unable to Reach,Carla Davis
+EP0000563,321,Maternity,2025-09-21,2026-02-28,Closed,Brian Smith
+EP0000564,373,Behavioral Health,2025-10-07,2026-04-10,Closed,Emily Chen
+EP0000565,311,Maternity,2026-03-13,,Open,Emily Chen
+EP0000566,6,Behavioral Health,2026-02-12,,Open,Fatima Khan
+EP0000567,22,High Risk,2026-01-07,2026-04-03,Closed,Fatima Khan
+EP0000568,921,Case Management,2025-04-28,2025-09-09,Closed,Fatima Khan
+EP0000569,201,Disease Management,2025-09-29,2026-03-12,Closed,Emily Chen
+EP0000570,192,High Risk,2025-08-16,2025-08-21,Unable to Reach,Brian Smith
+EP0000571,965,Case Management,2025-09-16,2026-01-25,Completed,Brian Smith
+EP0000572,839,Maternity,2026-01-17,,Open,Fatima Khan
+EP0000573,5,Maternity,2025-05-12,2025-11-12,Closed,Daniel Lopez
+EP0000574,471,Maternity,2026-02-22,2026-03-05,Closed,Carla Davis
+EP0000575,231,Case Management,2025-08-18,2025-11-20,Closed,Brian Smith
+EP0000576,853,Behavioral Health,2025-07-14,,Open,Fatima Khan
+EP0000577,268,High Risk,2025-11-02,,Open,Alice Johnson
+EP0000578,214,High Risk,2025-05-28,2025-10-27,Unable to Reach,Brian Smith
+EP0000579,807,High Risk,2026-02-06,2026-04-10,Unable to Reach,Fatima Khan
+EP0000580,276,Behavioral Health,2025-11-25,,Open,Fatima Khan
+EP0000581,620,High Risk,2025-04-25,2025-09-18,Closed,Daniel Lopez
+EP0000582,600,Case Management,2025-06-12,,Open,Fatima Khan
+EP0000583,682,Behavioral Health,2025-08-02,2025-10-16,Unable to Reach,Brian Smith
+EP0000584,25,High Risk,2025-10-02,2026-04-10,Completed,Emily Chen
+EP0000585,650,Disease Management,2026-02-12,2026-03-02,Unable to Reach,Alice Johnson
+EP0000586,133,High Risk,2025-11-15,2026-01-06,Completed,Brian Smith
+EP0000587,988,Case Management,2026-02-17,2026-03-06,Unable to Reach,Fatima Khan
+EP0000588,693,Disease Management,2025-10-27,2025-12-05,Completed,Carla Davis
+EP0000589,281,High Risk,2026-01-30,,Open,Carla Davis
+EP0000590,983,Behavioral Health,2026-02-05,2026-03-19,Unable to Reach,Carla Davis
+EP0000591,951,High Risk,2025-08-30,2026-03-16,Unable to Reach,Brian Smith
+EP0000592,603,Disease Management,2026-03-03,2026-03-29,Unable to Reach,Brian Smith
+EP0000593,961,Case Management,2026-01-12,2026-01-18,Closed,Emily Chen
+EP0000594,820,Disease Management,2026-01-20,2026-04-14,Closed,Brian Smith
+EP0000595,211,Maternity,2025-08-27,2026-03-04,Closed,Daniel Lopez
+EP0000596,966,Case Management,2025-09-04,2026-02-02,Unable to Reach,Emily Chen
+EP0000597,902,Behavioral Health,2025-08-20,2026-01-23,Closed,Brian Smith
+EP0000598,243,High Risk,2026-02-21,2026-03-27,Closed,Brian Smith
+EP0000599,278,Case Management,2026-03-18,,Open,Carla Davis
+EP0000600,950,Case Management,2026-02-21,2026-04-09,Completed,Daniel Lopez
+EP0000601,924,Maternity,2026-01-10,2026-03-14,Unable to Reach,Fatima Khan
+EP0000602,312,Case Management,2025-09-15,2026-01-17,Closed,Alice Johnson
+EP0000603,85,Case Management,2025-09-15,2026-03-16,Unable to Reach,Brian Smith
+EP0000604,273,Case Management,2026-03-04,2026-04-09,Closed,Carla Davis
+EP0000605,844,Behavioral Health,2025-07-06,2026-03-09,Completed,Carla Davis
+EP0000606,892,Maternity,2025-06-18,2026-03-31,Completed,Emily Chen
+EP0000607,781,High Risk,2025-11-23,2026-03-26,Unable to Reach,Alice Johnson
+EP0000608,197,Maternity,2026-03-03,2026-04-14,Unable to Reach,Brian Smith
+EP0000609,686,Behavioral Health,2025-12-16,2026-02-12,Closed,Brian Smith
+EP0000610,722,Maternity,2025-09-27,,Open,Brian Smith
+EP0000611,264,Maternity,2025-05-13,,Open,Alice Johnson
+EP0000612,194,Case Management,2025-05-09,2025-12-29,Closed,Carla Davis
+EP0000613,743,Maternity,2026-02-14,2026-02-21,Completed,Daniel Lopez
+EP0000614,543,Maternity,2025-05-24,2026-01-22,Unable to Reach,Carla Davis
+EP0000615,355,Behavioral Health,2025-08-25,2026-01-09,Completed,Fatima Khan
+EP0000616,374,Disease Management,2026-03-12,2026-03-17,Unable to Reach,Alice Johnson
+EP0000617,640,High Risk,2025-06-03,,Open,Alice Johnson
+EP0000618,856,Case Management,2025-07-29,2026-01-16,Completed,Fatima Khan
+EP0000619,351,Maternity,2025-04-26,,Open,Carla Davis
+EP0000620,371,Maternity,2025-07-25,2025-10-07,Completed,Brian Smith
+EP0000621,961,Disease Management,2025-05-03,2025-06-09,Completed,Brian Smith
+EP0000622,988,Maternity,2025-12-11,,Open,Emily Chen
+EP0000623,237,Disease Management,2025-12-12,2026-01-05,Closed,Brian Smith
+EP0000624,404,Disease Management,2025-06-14,2025-11-05,Completed,Emily Chen
+EP0000625,878,High Risk,2025-06-01,2025-09-04,Completed,Daniel Lopez
+EP0000626,652,High Risk,2025-11-05,2026-02-27,Closed,Daniel Lopez
+EP0000627,819,Behavioral Health,2025-12-14,2026-03-01,Unable to Reach,Alice Johnson
+EP0000628,587,Case Management,2025-06-28,2026-01-19,Unable to Reach,Alice Johnson
+EP0000629,283,Behavioral Health,2025-06-25,,Open,Emily Chen
+EP0000630,523,Maternity,2025-06-17,2025-11-21,Completed,Alice Johnson
+EP0000631,712,Maternity,2025-12-19,2026-03-24,Completed,Emily Chen
+EP0000632,704,Maternity,2025-11-20,,Open,Daniel Lopez
+EP0000633,379,Behavioral Health,2025-09-29,2025-11-06,Completed,Alice Johnson
+EP0000634,619,Behavioral Health,2026-01-28,2026-04-14,Completed,Brian Smith
+EP0000635,83,Behavioral Health,2025-06-29,,Open,Emily Chen
+EP0000636,193,Case Management,2025-05-09,2025-05-30,Completed,Brian Smith
+EP0000637,980,Behavioral Health,2025-08-29,2025-12-21,Unable to Reach,Fatima Khan
+EP0000638,627,Behavioral Health,2026-01-14,2026-01-22,Unable to Reach,Carla Davis
+EP0000639,101,Disease Management,2025-08-22,2026-03-15,Completed,Emily Chen
+EP0000640,970,Disease Management,2026-02-13,2026-04-08,Completed,Emily Chen
+EP0000641,133,Maternity,2026-03-13,,Open,Brian Smith
+EP0000642,749,Maternity,2026-02-01,2026-03-01,Closed,Brian Smith
+EP0000643,775,Behavioral Health,2025-08-13,2025-09-04,Closed,Carla Davis
+EP0000644,727,Behavioral Health,2025-07-23,2026-01-22,Closed,Daniel Lopez
+EP0000645,586,Maternity,2025-11-13,,Open,Alice Johnson
+EP0000646,837,Case Management,2025-09-14,2026-02-08,Completed,Alice Johnson
+EP0000647,274,High Risk,2025-11-06,2026-01-25,Closed,Emily Chen
+EP0000648,567,Behavioral Health,2025-08-28,,Open,Daniel Lopez
+EP0000649,585,Maternity,2025-05-17,2025-11-28,Unable to Reach,Emily Chen
+EP0000650,397,High Risk,2025-07-21,2025-11-24,Closed,Alice Johnson
+EP0000651,735,Disease Management,2025-07-28,2025-08-04,Unable to Reach,Daniel Lopez
+EP0000652,942,Maternity,2025-05-17,2025-09-24,Closed,Emily Chen
+EP0000653,77,Behavioral Health,2025-06-30,2025-09-26,Unable to Reach,Carla Davis
+EP0000654,379,High Risk,2025-08-27,2025-09-02,Closed,Alice Johnson
+EP0000655,240,High Risk,2025-07-24,2026-04-14,Completed,Emily Chen
+EP0000656,304,High Risk,2026-02-03,2026-04-01,Unable to Reach,Alice Johnson
+EP0000657,53,Case Management,2026-01-24,2026-03-16,Completed,Brian Smith
+EP0000658,74,High Risk,2025-10-24,,Open,Alice Johnson
+EP0000659,5,Behavioral Health,2025-10-27,2026-03-31,Closed,Alice Johnson
+EP0000660,560,High Risk,2025-09-30,2025-12-29,Closed,Brian Smith
+EP0000661,552,High Risk,2025-07-04,2025-07-05,Unable to Reach,Alice Johnson
+EP0000662,592,Case Management,2026-03-06,,Open,Brian Smith
+EP0000663,733,Disease Management,2025-05-22,2025-07-17,Unable to Reach,Fatima Khan
+EP0000664,873,Disease Management,2025-10-19,2025-12-26,Unable to Reach,Daniel Lopez
+EP0000665,568,Maternity,2025-12-14,2026-02-23,Closed,Fatima Khan
+EP0000666,797,Maternity,2025-08-31,2025-10-09,Completed,Fatima Khan
+EP0000667,864,Maternity,2025-09-13,,Open,Brian Smith
+EP0000668,173,Disease Management,2026-01-31,2026-04-11,Unable to Reach,Carla Davis
+EP0000669,827,High Risk,2025-12-01,2026-03-15,Completed,Carla Davis
+EP0000670,336,High Risk,2025-07-15,,Open,Brian Smith
+EP0000671,98,High Risk,2026-02-18,2026-02-25,Closed,Emily Chen
+EP0000672,14,High Risk,2025-10-31,2026-03-03,Closed,Fatima Khan
+EP0000673,544,Case Management,2025-09-28,2026-03-08,Completed,Brian Smith
+EP0000674,132,Maternity,2025-12-21,2025-12-25,Unable to Reach,Fatima Khan
+EP0000675,773,Case Management,2026-01-22,2026-01-24,Completed,Daniel Lopez
+EP0000676,749,Behavioral Health,2025-12-25,,Open,Daniel Lopez
+EP0000677,130,Behavioral Health,2026-03-08,2026-04-10,Closed,Alice Johnson
+EP0000678,260,High Risk,2026-02-06,2026-03-25,Closed,Brian Smith
+EP0000679,839,High Risk,2025-05-19,2025-05-25,Unable to Reach,Daniel Lopez
+EP0000680,821,Behavioral Health,2025-05-28,2025-10-29,Unable to Reach,Alice Johnson
+EP0000681,118,Disease Management,2025-07-08,2025-08-28,Closed,Brian Smith
+EP0000682,418,Disease Management,2025-09-21,2025-12-06,Unable to Reach,Emily Chen
+EP0000683,964,Disease Management,2025-09-02,2026-03-07,Closed,Alice Johnson
+EP0000684,256,Case Management,2025-07-12,2025-09-02,Closed,Daniel Lopez
+EP0000685,900,Case Management,2026-01-29,2026-02-08,Completed,Fatima Khan
+EP0000686,271,Behavioral Health,2025-06-28,2026-03-15,Completed,Alice Johnson
+EP0000687,589,Behavioral Health,2026-02-27,2026-03-16,Closed,Daniel Lopez
+EP0000688,558,Behavioral Health,2025-05-07,,Open,Emily Chen
+EP0000689,555,Disease Management,2025-07-28,,Open,Emily Chen
+EP0000690,831,Behavioral Health,2025-06-07,,Open,Emily Chen
+EP0000691,136,Disease Management,2026-02-25,,Open,Fatima Khan
+EP0000692,775,Behavioral Health,2026-01-30,,Open,Alice Johnson
+EP0000693,360,High Risk,2026-01-03,2026-03-22,Completed,Alice Johnson
+EP0000694,798,High Risk,2026-03-19,,Open,Fatima Khan
+EP0000695,129,Behavioral Health,2025-08-31,2026-01-15,Closed,Carla Davis
+EP0000696,341,Case Management,2025-06-08,,Open,Brian Smith
+EP0000697,188,Maternity,2025-07-13,,Open,Daniel Lopez
+EP0000698,815,Maternity,2025-07-14,2026-01-16,Closed,Brian Smith
+EP0000699,922,Behavioral Health,2025-05-22,2025-10-19,Completed,Alice Johnson
+EP0000700,466,Disease Management,2025-10-05,,Open,Carla Davis
+EP0000701,36,Disease Management,2025-09-14,,Open,Emily Chen
+EP0000702,910,High Risk,2025-07-16,2025-10-20,Completed,Brian Smith
+EP0000703,455,Maternity,2025-09-02,2026-01-28,Unable to Reach,Daniel Lopez
+EP0000704,686,Behavioral Health,2025-12-23,,Open,Brian Smith
+EP0000705,506,Disease Management,2025-09-11,,Open,Daniel Lopez
+EP0000706,427,Behavioral Health,2025-10-28,2026-04-07,Closed,Alice Johnson
+EP0000707,13,Behavioral Health,2025-12-18,2026-01-19,Completed,Alice Johnson
+EP0000708,650,Case Management,2025-12-28,2026-02-25,Completed,Daniel Lopez
+EP0000709,424,Maternity,2025-06-02,2025-08-22,Closed,Daniel Lopez
+EP0000710,930,Case Management,2026-03-12,,Open,Brian Smith
+EP0000711,452,Maternity,2025-12-17,2026-03-07,Closed,Alice Johnson
+EP0000712,293,Disease Management,2025-08-15,2025-12-26,Unable to Reach,Carla Davis
+EP0000713,198,Behavioral Health,2026-01-31,2026-02-07,Completed,Brian Smith
+EP0000714,366,Maternity,2025-08-23,2025-11-06,Completed,Emily Chen
+EP0000715,110,Behavioral Health,2025-11-28,2026-01-19,Closed,Daniel Lopez
+EP0000716,264,Case Management,2025-10-16,2025-11-27,Closed,Fatima Khan
+EP0000717,284,Case Management,2026-02-01,2026-04-13,Closed,Alice Johnson
+EP0000718,736,Maternity,2025-09-03,2026-01-30,Completed,Daniel Lopez
+EP0000719,606,Maternity,2026-01-23,,Open,Emily Chen
+EP0000720,211,Behavioral Health,2025-10-04,,Open,Daniel Lopez
+EP0000721,977,Maternity,2025-07-22,2025-09-12,Completed,Fatima Khan
+EP0000722,818,Case Management,2026-02-07,2026-04-11,Completed,Daniel Lopez
+EP0000723,837,Behavioral Health,2025-09-30,2025-11-05,Unable to Reach,Carla Davis
+EP0000724,339,Disease Management,2025-10-15,2026-03-11,Closed,Alice Johnson
+EP0000725,463,Maternity,2025-10-03,2026-01-11,Unable to Reach,Emily Chen
+EP0000726,237,Maternity,2025-11-28,2026-03-18,Unable to Reach,Daniel Lopez
+EP0000727,123,Disease Management,2025-06-05,,Open,Daniel Lopez
+EP0000728,811,Case Management,2025-08-24,,Open,Daniel Lopez
+EP0000729,539,Maternity,2025-07-31,,Open,Daniel Lopez
+EP0000730,134,Disease Management,2025-10-21,2026-02-07,Completed,Daniel Lopez
+EP0000731,874,Behavioral Health,2025-09-05,2025-09-27,Completed,Emily Chen
+EP0000732,27,Maternity,2025-06-13,,Open,Carla Davis
+EP0000733,334,Disease Management,2026-01-21,2026-01-28,Unable to Reach,Carla Davis
+EP0000734,872,Case Management,2025-05-09,2025-12-22,Completed,Carla Davis
+EP0000735,544,Case Management,2026-02-27,2026-03-15,Closed,Carla Davis
+EP0000736,104,High Risk,2025-09-06,2026-04-14,Closed,Daniel Lopez
+EP0000737,539,Behavioral Health,2025-07-02,2025-09-27,Closed,Daniel Lopez
+EP0000738,133,Maternity,2026-03-09,2026-03-10,Closed,Brian Smith
+EP0000739,854,High Risk,2025-06-30,2026-04-03,Closed,Alice Johnson
+EP0000740,889,Behavioral Health,2025-10-11,2026-03-05,Completed,Emily Chen
+EP0000741,928,High Risk,2025-11-01,2026-03-21,Unable to Reach,Carla Davis
+EP0000742,55,Disease Management,2025-11-07,,Open,Daniel Lopez
+EP0000743,688,Disease Management,2026-01-28,2026-03-26,Unable to Reach,Emily Chen
+EP0000744,867,High Risk,2025-10-14,,Open,Fatima Khan
+EP0000745,766,High Risk,2025-06-03,2025-08-06,Unable to Reach,Fatima Khan
+EP0000746,245,Disease Management,2025-10-24,2026-01-13,Completed,Fatima Khan
+EP0000747,10,Behavioral Health,2025-08-20,2025-09-29,Closed,Carla Davis
+EP0000748,811,Disease Management,2026-02-20,,Open,Carla Davis
+EP0000749,568,Disease Management,2025-09-17,2025-10-15,Completed,Emily Chen
+EP0000750,533,Case Management,2025-09-07,2025-10-18,Completed,Fatima Khan
+EP0000751,355,Disease Management,2026-01-01,,Open,Fatima Khan
+EP0000752,870,Disease Management,2025-06-12,2025-07-04,Completed,Brian Smith
+EP0000753,859,Maternity,2025-04-19,2025-08-18,Completed,Carla Davis
+EP0000754,914,Behavioral Health,2025-07-23,2026-03-18,Unable to Reach,Emily Chen
+EP0000755,64,Disease Management,2025-09-07,2026-04-16,Closed,Carla Davis
+EP0000756,512,Behavioral Health,2025-07-10,,Open,Daniel Lopez
+EP0000757,695,Behavioral Health,2026-02-04,,Open,Daniel Lopez
+EP0000758,830,High Risk,2025-10-06,2025-10-31,Closed,Daniel Lopez
+EP0000759,399,Behavioral Health,2026-01-31,2026-03-14,Unable to Reach,Brian Smith
+EP0000760,552,High Risk,2025-08-31,2025-12-12,Unable to Reach,Emily Chen
+EP0000761,275,High Risk,2025-04-18,2025-08-22,Unable to Reach,Fatima Khan
+EP0000762,602,Behavioral Health,2025-10-07,2025-12-23,Unable to Reach,Alice Johnson
+EP0000763,302,Case Management,2025-06-25,2026-01-13,Unable to Reach,Fatima Khan
+EP0000764,540,Disease Management,2025-07-09,2025-07-11,Closed,Alice Johnson
+EP0000765,37,Disease Management,2026-01-16,2026-04-18,Closed,Brian Smith
+EP0000766,455,Behavioral Health,2025-12-28,2026-04-07,Unable to Reach,Daniel Lopez
+EP0000767,627,Disease Management,2025-12-30,2026-03-16,Closed,Daniel Lopez
+EP0000768,791,Behavioral Health,2025-07-22,2025-08-07,Unable to Reach,Brian Smith
+EP0000769,351,Disease Management,2025-08-27,2025-12-08,Closed,Brian Smith
+EP0000770,124,High Risk,2025-09-17,2026-01-23,Closed,Fatima Khan
+EP0000771,848,Behavioral Health,2026-02-06,,Open,Carla Davis
+EP0000772,983,High Risk,2025-07-03,2025-12-10,Unable to Reach,Alice Johnson
+EP0000773,900,High Risk,2025-06-27,,Open,Carla Davis
+EP0000774,969,Behavioral Health,2026-01-27,2026-03-31,Completed,Daniel Lopez
+EP0000775,86,Maternity,2025-07-10,2026-02-26,Completed,Daniel Lopez
+EP0000776,296,High Risk,2025-04-25,2025-09-30,Unable to Reach,Daniel Lopez
+EP0000777,819,High Risk,2026-02-01,,Open,Alice Johnson
+EP0000778,896,Behavioral Health,2025-05-29,,Open,Emily Chen
+EP0000779,444,Case Management,2025-07-31,2026-02-24,Closed,Alice Johnson
+EP0000780,187,Case Management,2025-10-09,2025-12-14,Closed,Emily Chen
+EP0000781,828,Maternity,2025-07-30,2026-04-01,Closed,Carla Davis
+EP0000782,363,Case Management,2025-08-10,,Open,Carla Davis
+EP0000783,959,High Risk,2025-11-28,2026-02-05,Unable to Reach,Daniel Lopez
+EP0000784,564,High Risk,2025-10-22,,Open,Emily Chen
+EP0000785,41,Behavioral Health,2025-06-20,2025-07-15,Closed,Fatima Khan
+EP0000786,666,Behavioral Health,2025-06-15,,Open,Brian Smith
+EP0000787,216,Disease Management,2025-06-13,2026-01-25,Closed,Daniel Lopez
+EP0000788,355,Case Management,2025-10-05,,Open,Fatima Khan
+EP0000789,272,Behavioral Health,2025-07-30,2025-07-30,Closed,Alice Johnson
+EP0000790,844,Behavioral Health,2025-05-08,2026-03-20,Unable to Reach,Emily Chen
+EP0000791,920,Disease Management,2025-07-08,2025-12-15,Completed,Carla Davis
+EP0000792,99,Disease Management,2026-02-07,2026-04-12,Closed,Emily Chen
+EP0000793,274,Case Management,2025-08-15,2026-01-25,Completed,Fatima Khan
+EP0000794,280,Maternity,2026-03-01,2026-03-11,Unable to Reach,Daniel Lopez
+EP0000795,209,Case Management,2025-12-10,,Open,Alice Johnson
+EP0000796,264,Maternity,2025-11-15,2026-02-09,Completed,Alice Johnson
+EP0000797,495,Behavioral Health,2025-07-11,2025-10-14,Unable to Reach,Alice Johnson
+EP0000798,796,Disease Management,2025-05-28,2025-12-16,Unable to Reach,Emily Chen
+EP0000799,760,Maternity,2025-05-06,2025-06-07,Unable to Reach,Emily Chen
+EP0000800,564,Case Management,2026-01-11,2026-02-27,Closed,Emily Chen
+EP0000801,791,Behavioral Health,2025-10-25,2025-11-15,Closed,Daniel Lopez
+EP0000802,902,Case Management,2025-07-02,2026-01-22,Completed,Daniel Lopez
+EP0000803,245,Case Management,2025-07-30,2025-11-27,Completed,Daniel Lopez
+EP0000804,400,Maternity,2025-05-17,2026-03-23,Unable to Reach,Daniel Lopez
+EP0000805,733,Disease Management,2025-04-26,2025-07-30,Unable to Reach,Emily Chen
+EP0000806,312,Behavioral Health,2025-06-22,2025-09-05,Completed,Carla Davis
+EP0000807,213,Behavioral Health,2025-12-13,,Open,Alice Johnson
+EP0000808,133,Maternity,2026-03-16,2026-04-16,Completed,Brian Smith
+EP0000809,225,Maternity,2025-08-27,2026-04-14,Closed,Alice Johnson
+EP0000810,555,High Risk,2025-12-26,2026-03-14,Completed,Alice Johnson
+EP0000811,910,High Risk,2025-12-02,,Open,Alice Johnson
+EP0000812,570,Disease Management,2025-08-10,2025-12-14,Completed,Emily Chen
+EP0000813,397,Maternity,2025-12-05,,Open,Alice Johnson
+EP0000814,907,Maternity,2025-11-19,,Open,Fatima Khan
+EP0000815,568,Maternity,2025-09-10,2025-10-07,Completed,Alice Johnson
+EP0000816,883,Behavioral Health,2025-12-01,,Open,Daniel Lopez
+EP0000817,853,Maternity,2025-12-04,2026-01-11,Closed,Alice Johnson
+EP0000818,635,Behavioral Health,2025-09-10,2025-10-29,Closed,Fatima Khan
+EP0000819,450,Case Management,2026-01-27,,Open,Daniel Lopez
+EP0000820,607,High Risk,2025-12-25,2026-02-19,Completed,Daniel Lopez
+EP0000821,628,Disease Management,2025-08-14,2025-11-21,Closed,Fatima Khan
+EP0000822,497,Behavioral Health,2025-11-05,2026-02-25,Closed,Emily Chen
+EP0000823,957,Case Management,2026-01-13,2026-04-02,Closed,Daniel Lopez
+EP0000824,727,High Risk,2025-11-14,2026-01-09,Closed,Alice Johnson
+EP0000825,951,Behavioral Health,2026-03-01,2026-04-15,Unable to Reach,Emily Chen
+EP0000826,142,High Risk,2025-12-23,2026-03-08,Unable to Reach,Daniel Lopez
+EP0000827,797,High Risk,2025-06-12,2025-12-27,Closed,Alice Johnson
+EP0000828,126,Behavioral Health,2025-08-18,,Open,Carla Davis
+EP0000829,822,High Risk,2025-04-26,2025-06-17,Closed,Fatima Khan
+EP0000830,777,Disease Management,2026-02-10,2026-02-28,Completed,Emily Chen
+EP0000831,540,Disease Management,2025-11-24,2026-04-08,Closed,Emily Chen
+EP0000832,372,Disease Management,2025-10-03,2026-01-18,Unable to Reach,Emily Chen
+EP0000833,594,Behavioral Health,2025-05-27,,Open,Fatima Khan
+EP0000834,440,High Risk,2025-08-13,2026-04-16,Closed,Emily Chen
+EP0000835,134,Case Management,2025-12-29,2026-02-07,Unable to Reach,Carla Davis
+EP0000836,240,Behavioral Health,2025-05-25,2025-07-30,Closed,Daniel Lopez
+EP0000837,116,Behavioral Health,2026-03-11,2026-03-22,Closed,Fatima Khan
+EP0000838,732,Maternity,2025-09-10,2025-12-23,Closed,Carla Davis
+EP0000839,407,Behavioral Health,2025-08-11,2025-11-18,Unable to Reach,Emily Chen
+EP0000840,271,Maternity,2025-06-13,,Open,Brian Smith
+EP0000841,653,Maternity,2025-11-30,2025-12-12,Completed,Carla Davis
+EP0000842,480,Maternity,2025-11-23,2025-12-15,Closed,Fatima Khan
+EP0000843,654,Maternity,2026-01-14,2026-04-16,Completed,Fatima Khan
+EP0000844,812,High Risk,2025-06-05,2026-02-12,Closed,Carla Davis
+EP0000845,609,Disease Management,2025-12-25,2026-03-10,Closed,Fatima Khan
+EP0000846,726,Behavioral Health,2025-08-20,2026-01-20,Unable to Reach,Carla Davis
+EP0000847,222,Maternity,2025-08-10,2026-02-20,Unable to Reach,Emily Chen
+EP0000848,598,Maternity,2025-11-15,2026-03-09,Closed,Alice Johnson
+EP0000849,480,Maternity,2026-01-26,2026-03-25,Closed,Alice Johnson
+EP0000850,537,High Risk,2025-11-10,2025-11-13,Completed,Fatima Khan
+EP0000851,116,High Risk,2025-09-29,2025-12-22,Completed,Brian Smith
+EP0000852,342,Behavioral Health,2025-09-02,2025-11-04,Closed,Daniel Lopez
+EP0000853,626,Maternity,2026-02-18,,Open,Carla Davis
+EP0000854,463,Behavioral Health,2026-01-13,2026-03-15,Closed,Fatima Khan
+EP0000855,635,High Risk,2026-03-17,2026-03-28,Closed,Alice Johnson
+EP0000856,192,High Risk,2026-02-08,2026-04-01,Completed,Carla Davis
+EP0000857,156,Behavioral Health,2026-03-02,,Open,Fatima Khan
+EP0000858,718,Behavioral Health,2025-07-23,,Open,Brian Smith
+EP0000859,929,High Risk,2025-12-09,2026-02-16,Unable to Reach,Carla Davis
+EP0000860,80,Behavioral Health,2026-02-22,2026-03-10,Completed,Carla Davis
+EP0000861,770,High Risk,2025-12-14,2026-02-12,Closed,Alice Johnson
+EP0000862,6,Behavioral Health,2025-06-17,2025-12-12,Completed,Emily Chen
+EP0000863,237,High Risk,2025-12-23,2026-02-10,Completed,Fatima Khan
+EP0000864,746,Disease Management,2026-02-10,2026-02-13,Completed,Emily Chen
+EP0000865,171,Disease Management,2026-01-30,2026-03-14,Completed,Carla Davis
+EP0000866,249,Behavioral Health,2025-12-02,2026-01-06,Unable to Reach,Brian Smith
+EP0000867,680,High Risk,2025-08-12,2026-01-08,Unable to Reach,Daniel Lopez
+EP0000868,803,High Risk,2025-11-22,,Open,Fatima Khan
+EP0000869,548,Disease Management,2025-09-04,,Open,Brian Smith
+EP0000870,276,Maternity,2025-11-06,,Open,Alice Johnson
+EP0000871,633,Disease Management,2025-10-01,2025-12-23,Closed,Carla Davis
+EP0000872,738,Maternity,2025-05-02,,Open,Brian Smith
+EP0000873,60,High Risk,2025-06-25,2025-12-24,Completed,Fatima Khan
+EP0000874,79,Disease Management,2025-06-10,2026-01-19,Completed,Fatima Khan
+EP0000875,191,High Risk,2025-07-23,2025-12-03,Unable to Reach,Brian Smith
+EP0000876,857,Case Management,2025-08-23,2025-09-25,Completed,Alice Johnson
+EP0000877,499,Disease Management,2025-05-22,,Open,Fatima Khan
+EP0000878,750,High Risk,2025-07-14,2025-08-17,Completed,Brian Smith
+EP0000879,736,Maternity,2025-12-22,2026-04-10,Unable to Reach,Daniel Lopez
+EP0000880,258,High Risk,2025-12-01,2026-03-30,Closed,Emily Chen
+EP0000881,175,Behavioral Health,2025-11-05,2025-12-04,Completed,Emily Chen
+EP0000882,449,Disease Management,2025-05-31,2026-02-15,Completed,Fatima Khan
+EP0000883,392,High Risk,2025-12-13,,Open,Fatima Khan
+EP0000884,628,Maternity,2025-07-27,2025-10-25,Closed,Carla Davis
+EP0000885,21,Maternity,2026-03-16,2026-03-19,Unable to Reach,Fatima Khan
+EP0000886,375,High Risk,2026-01-01,2026-01-29,Closed,Brian Smith
+EP0000887,970,Behavioral Health,2026-01-09,2026-03-16,Unable to Reach,Emily Chen
+EP0000888,502,Disease Management,2025-05-25,2025-08-07,Closed,Daniel Lopez
+EP0000889,636,Disease Management,2025-04-30,,Open,Alice Johnson
+EP0000890,631,Disease Management,2025-10-23,2025-10-28,Completed,Carla Davis
+EP0000891,604,Case Management,2025-11-01,2026-04-05,Closed,Carla Davis
+EP0000892,296,Maternity,2026-01-22,2026-02-09,Closed,Emily Chen
+EP0000893,462,High Risk,2025-07-10,2025-09-07,Closed,Daniel Lopez
+EP0000894,246,High Risk,2025-07-28,2025-09-30,Unable to Reach,Carla Davis
+EP0000895,299,High Risk,2025-08-10,2025-10-12,Completed,Alice Johnson
+EP0000896,189,Case Management,2026-03-18,,Open,Daniel Lopez
+EP0000897,728,Disease Management,2026-02-14,,Open,Brian Smith
+EP0000898,488,High Risk,2026-02-27,2026-03-07,Closed,Daniel Lopez
+EP0000899,784,Case Management,2026-02-19,2026-03-27,Closed,Fatima Khan
+EP0000900,571,Maternity,2025-11-29,2026-02-21,Completed,Daniel Lopez
+EP0000901,55,Disease Management,2025-12-04,2026-03-09,Unable to Reach,Carla Davis
+EP0000902,436,High Risk,2026-03-06,2026-04-01,Closed,Brian Smith
+EP0000903,883,Case Management,2025-08-13,2025-11-10,Completed,Fatima Khan
+EP0000904,757,Maternity,2025-12-02,2026-01-13,Unable to Reach,Fatima Khan
+EP0000905,965,Maternity,2026-02-25,2026-04-15,Unable to Reach,Brian Smith
+EP0000906,672,Case Management,2026-01-17,,Open,Emily Chen
+EP0000907,597,High Risk,2025-10-23,2026-02-24,Closed,Carla Davis
+EP0000908,695,Case Management,2025-05-06,2025-06-17,Completed,Carla Davis
+EP0000909,667,Behavioral Health,2025-10-30,2026-01-05,Unable to Reach,Fatima Khan
+EP0000910,215,Case Management,2025-07-19,2026-02-09,Completed,Carla Davis
+EP0000911,455,Maternity,2025-09-26,2026-03-14,Closed,Daniel Lopez
+EP0000912,102,Disease Management,2025-05-17,2025-11-02,Unable to Reach,Emily Chen
+EP0000913,562,Disease Management,2026-01-30,2026-03-18,Completed,Carla Davis
+EP0000914,41,Case Management,2025-11-25,2026-01-03,Closed,Brian Smith
+EP0000915,514,Behavioral Health,2025-12-20,,Open,Daniel Lopez
+EP0000916,930,High Risk,2026-03-14,2026-03-24,Closed,Alice Johnson
+EP0000917,348,Behavioral Health,2025-10-05,2025-12-25,Completed,Daniel Lopez
+EP0000918,220,Behavioral Health,2025-11-27,2025-12-21,Unable to Reach,Emily Chen
+EP0000919,964,High Risk,2025-04-29,2025-11-16,Closed,Alice Johnson
+EP0000920,993,High Risk,2025-06-02,,Open,Brian Smith
+EP0000921,22,Maternity,2025-04-29,2025-11-24,Completed,Alice Johnson
+EP0000922,111,High Risk,2025-08-21,2026-03-25,Closed,Alice Johnson
+EP0000923,423,Case Management,2026-02-23,,Open,Brian Smith
+EP0000924,441,High Risk,2025-07-27,2026-03-06,Completed,Alice Johnson
+EP0000925,719,Disease Management,2025-11-28,2026-03-01,Closed,Carla Davis
+EP0000926,279,High Risk,2025-12-24,2025-12-26,Completed,Alice Johnson
+EP0000927,440,Case Management,2025-12-31,2026-03-27,Unable to Reach,Emily Chen
+EP0000928,446,Disease Management,2025-10-12,2026-03-13,Unable to Reach,Brian Smith
+EP0000929,886,Maternity,2025-05-21,2026-04-02,Closed,Fatima Khan
+EP0000930,999,Case Management,2025-08-13,2025-09-13,Closed,Brian Smith
+EP0000931,599,Behavioral Health,2025-08-15,2026-04-06,Closed,Daniel Lopez
+EP0000932,719,Disease Management,2025-11-23,2026-01-15,Closed,Emily Chen
+EP0000933,887,Behavioral Health,2025-04-21,,Open,Daniel Lopez
+EP0000934,855,Disease Management,2025-08-26,,Open,Daniel Lopez
+EP0000935,825,Case Management,2025-10-15,,Open,Fatima Khan
+EP0000936,109,Maternity,2025-11-14,2026-02-22,Closed,Emily Chen
+EP0000937,251,Disease Management,2025-09-24,2025-10-06,Closed,Emily Chen
+EP0000938,541,Disease Management,2026-02-01,2026-02-07,Closed,Carla Davis
+EP0000939,721,Behavioral Health,2025-05-18,2026-02-08,Completed,Fatima Khan
+EP0000940,386,Maternity,2025-10-15,2026-01-28,Completed,Carla Davis
+EP0000941,117,Behavioral Health,2025-08-19,2026-01-06,Completed,Emily Chen
+EP0000942,138,Maternity,2025-10-31,2026-01-07,Closed,Emily Chen
+EP0000943,892,Maternity,2025-10-27,2025-12-28,Closed,Carla Davis
+EP0000944,119,Case Management,2026-03-05,,Open,Fatima Khan
+EP0000945,305,Disease Management,2025-10-29,2026-04-15,Closed,Fatima Khan
+EP0000946,869,Behavioral Health,2026-02-09,2026-04-06,Unable to Reach,Emily Chen
+EP0000947,376,High Risk,2026-03-13,2026-03-26,Unable to Reach,Daniel Lopez
+EP0000948,906,Case Management,2025-10-20,2025-11-04,Unable to Reach,Alice Johnson
+EP0000949,613,Case Management,2025-07-25,2026-04-09,Closed,Alice Johnson
+EP0000950,681,Maternity,2026-02-22,2026-03-14,Completed,Carla Davis
+EP0000951,970,Case Management,2025-10-20,2025-12-30,Completed,Alice Johnson
+EP0000952,560,High Risk,2025-11-30,2026-02-20,Completed,Fatima Khan
+EP0000953,364,High Risk,2026-02-16,2026-04-03,Unable to Reach,Emily Chen
+EP0000954,938,Behavioral Health,2025-06-23,,Open,Brian Smith
+EP0000955,917,Behavioral Health,2025-08-29,2025-10-09,Unable to Reach,Daniel Lopez
+EP0000956,803,Maternity,2025-06-28,,Open,Carla Davis
+EP0000957,143,Behavioral Health,2026-03-10,,Open,Carla Davis
+EP0000958,149,Behavioral Health,2025-09-26,2025-11-20,Closed,Emily Chen
+EP0000959,219,Case Management,2025-06-25,2026-04-06,Closed,Alice Johnson
+EP0000960,663,Case Management,2025-09-19,2025-12-31,Closed,Alice Johnson
+EP0000961,948,Behavioral Health,2025-08-28,2025-09-07,Completed,Alice Johnson
+EP0000962,863,High Risk,2025-09-02,2025-09-06,Unable to Reach,Fatima Khan
+EP0000963,34,Disease Management,2025-05-05,2025-08-13,Completed,Emily Chen
+EP0000964,690,High Risk,2025-05-09,,Open,Fatima Khan
+EP0000965,744,Behavioral Health,2025-09-17,2025-11-23,Completed,Emily Chen
+EP0000966,569,Behavioral Health,2025-05-11,2026-01-06,Unable to Reach,Carla Davis
+EP0000967,927,Behavioral Health,2026-02-11,2026-04-10,Completed,Carla Davis
+EP0000968,660,Disease Management,2026-03-05,2026-03-07,Unable to Reach,Alice Johnson
+EP0000969,907,Maternity,2025-11-27,2026-01-14,Unable to Reach,Carla Davis
+EP0000970,26,Behavioral Health,2025-09-21,,Open,Carla Davis
+EP0000971,903,Case Management,2026-02-25,2026-03-17,Unable to Reach,Fatima Khan
+EP0000972,600,Disease Management,2025-12-30,2026-01-23,Closed,Carla Davis
+EP0000973,329,High Risk,2025-08-05,2026-02-07,Completed,Carla Davis
+EP0000974,812,Behavioral Health,2025-09-07,2026-03-11,Closed,Daniel Lopez
+EP0000975,93,Disease Management,2025-07-03,,Open,Alice Johnson
+EP0000976,152,High Risk,2026-02-05,2026-04-11,Completed,Daniel Lopez
+EP0000977,252,Case Management,2025-05-09,2026-04-16,Unable to Reach,Emily Chen
+EP0000978,776,Case Management,2026-03-16,,Open,Carla Davis
+EP0000979,948,Case Management,2025-12-28,2026-02-10,Completed,Brian Smith
+EP0000980,154,Maternity,2026-03-17,2026-04-12,Closed,Alice Johnson
+EP0000981,300,Disease Management,2026-01-29,2026-03-06,Closed,Fatima Khan
+EP0000982,367,Maternity,2025-11-06,,Open,Alice Johnson
+EP0000983,617,Disease Management,2025-12-14,2026-01-30,Closed,Daniel Lopez
+EP0000984,563,Behavioral Health,2025-11-20,2026-03-19,Unable to Reach,Fatima Khan
+EP0000985,503,Behavioral Health,2026-01-29,2026-03-23,Completed,Carla Davis
+EP0000986,176,Behavioral Health,2026-02-25,2026-04-10,Unable to Reach,Brian Smith
+EP0000987,289,Case Management,2025-12-18,2026-03-22,Unable to Reach,Alice Johnson
+EP0000988,852,Disease Management,2025-10-01,,Open,Brian Smith
+EP0000989,729,Behavioral Health,2025-12-13,,Open,Daniel Lopez
+EP0000990,2,Case Management,2025-06-05,2026-03-05,Closed,Fatima Khan
+EP0000991,909,Behavioral Health,2025-11-23,2026-02-15,Unable to Reach,Alice Johnson
+EP0000992,784,Disease Management,2025-11-21,2026-01-09,Closed,Emily Chen
+EP0000993,859,Maternity,2025-10-21,,Open,Fatima Khan
+EP0000994,295,Disease Management,2025-12-05,2026-01-16,Completed,Carla Davis
+EP0000995,951,Behavioral Health,2026-03-09,,Open,Daniel Lopez
+EP0000996,552,Behavioral Health,2025-07-09,,Open,Brian Smith
+EP0000997,529,Maternity,2026-02-25,2026-03-06,Completed,Brian Smith
+EP0000998,48,Maternity,2025-09-21,2025-10-12,Completed,Daniel Lopez
+EP0000999,763,Behavioral Health,2025-05-13,2025-12-10,Completed,Emily Chen
+EP0001000,72,Maternity,2026-01-03,2026-03-05,Closed,Emily Chen
+EP0001001,395,Disease Management,2025-06-07,2026-03-20,Closed,Daniel Lopez
+EP0001002,963,High Risk,2025-04-18,2026-02-03,Unable to Reach,Emily Chen
+EP0001003,47,Maternity,2026-01-11,2026-01-26,Closed,Emily Chen
+EP0001004,425,Disease Management,2026-01-01,2026-01-12,Completed,Brian Smith
+EP0001005,771,Disease Management,2025-11-10,2025-12-12,Closed,Daniel Lopez
+EP0001006,425,Maternity,2025-09-21,2026-02-08,Closed,Emily Chen
+EP0001007,241,Case Management,2026-02-03,,Open,Alice Johnson
+EP0001008,861,High Risk,2025-04-18,,Open,Alice Johnson
+EP0001009,423,High Risk,2025-11-07,2026-02-04,Closed,Daniel Lopez
+EP0001010,472,Case Management,2025-04-24,2025-07-31,Unable to Reach,Fatima Khan
+EP0001011,935,Behavioral Health,2025-05-12,2025-12-08,Completed,Brian Smith
+EP0001012,760,Disease Management,2025-12-09,2026-03-24,Closed,Fatima Khan
+EP0001013,849,Case Management,2025-11-12,2026-02-25,Closed,Fatima Khan
+EP0001014,240,Disease Management,2026-01-02,2026-03-15,Unable to Reach,Fatima Khan
+EP0001015,112,High Risk,2025-05-06,2025-09-19,Closed,Emily Chen
+EP0001016,840,Disease Management,2025-11-06,2026-04-10,Completed,Carla Davis
+EP0001017,432,Case Management,2026-01-06,,Open,Brian Smith
+EP0001018,377,Maternity,2025-06-19,2025-09-29,Completed,Carla Davis
+EP0001019,729,Case Management,2025-09-21,2025-10-21,Completed,Alice Johnson
+EP0001020,673,Maternity,2026-01-10,2026-03-02,Completed,Brian Smith
+EP0001021,249,Behavioral Health,2025-12-01,,Open,Fatima Khan
+EP0001022,820,Case Management,2025-09-10,2026-02-14,Closed,Alice Johnson
+EP0001023,250,Disease Management,2025-09-05,2025-09-29,Closed,Emily Chen
+EP0001024,538,Case Management,2025-12-16,,Open,Fatima Khan
+EP0001025,940,Behavioral Health,2025-11-26,2026-03-18,Unable to Reach,Brian Smith
+EP0001026,814,Behavioral Health,2025-08-25,2025-12-24,Unable to Reach,Carla Davis
+EP0001027,341,Maternity,2025-08-21,2025-09-26,Completed,Alice Johnson
+EP0001028,199,Maternity,2025-06-10,2025-08-14,Completed,Fatima Khan
+EP0001029,822,Disease Management,2025-08-17,2025-11-10,Unable to Reach,Brian Smith
+EP0001030,970,Disease Management,2026-02-27,,Open,Daniel Lopez
+EP0001031,277,Behavioral Health,2025-07-08,2025-10-23,Completed,Fatima Khan
+EP0001032,685,Disease Management,2025-11-11,2025-11-23,Completed,Emily Chen
+EP0001033,292,Disease Management,2025-12-14,,Open,Emily Chen
+EP0001034,813,Disease Management,2025-08-12,,Open,Fatima Khan
+EP0001035,531,Disease Management,2025-06-23,,Open,Emily Chen
+EP0001036,329,Disease Management,2025-09-26,,Open,Alice Johnson
+EP0001037,306,Disease Management,2025-05-18,2026-01-07,Closed,Fatima Khan
+EP0001038,965,Maternity,2026-02-11,2026-02-18,Unable to Reach,Fatima Khan
+EP0001039,450,Case Management,2026-03-17,,Open,Fatima Khan
+EP0001040,670,Behavioral Health,2025-12-10,,Open,Daniel Lopez
+EP0001041,927,High Risk,2025-10-31,2026-03-31,Closed,Emily Chen
+EP0001042,25,Behavioral Health,2026-01-25,2026-02-02,Closed,Emily Chen
+EP0001043,16,Case Management,2025-08-09,2025-11-26,Closed,Emily Chen
+EP0001044,116,Maternity,2025-11-12,,Open,Carla Davis
+EP0001045,184,Case Management,2025-06-05,2025-06-23,Completed,Daniel Lopez
+EP0001046,961,Case Management,2025-04-23,2025-08-24,Unable to Reach,Fatima Khan
+EP0001047,397,Case Management,2025-04-21,2025-12-28,Closed,Emily Chen
+EP0001048,413,High Risk,2025-10-08,2025-10-11,Completed,Fatima Khan
+EP0001049,517,Case Management,2025-06-05,2025-09-27,Completed,Fatima Khan
+EP0001050,902,Case Management,2026-02-03,,Open,Fatima Khan
+EP0001051,99,Behavioral Health,2025-08-15,2025-11-25,Unable to Reach,Fatima Khan
+EP0001052,727,Case Management,2025-09-05,2025-12-17,Closed,Fatima Khan
+EP0001053,734,Behavioral Health,2025-09-01,,Open,Brian Smith
+EP0001054,660,High Risk,2025-11-27,2026-01-26,Unable to Reach,Alice Johnson
+EP0001055,617,High Risk,2026-03-13,,Open,Carla Davis
+EP0001056,707,Maternity,2026-03-17,2026-04-13,Closed,Emily Chen
+EP0001057,798,Behavioral Health,2025-04-20,2026-01-17,Completed,Brian Smith
+EP0001058,671,High Risk,2025-08-07,,Open,Emily Chen
+EP0001059,67,Maternity,2025-06-15,2025-08-27,Unable to Reach,Daniel Lopez
+EP0001060,789,Disease Management,2025-11-24,2025-12-05,Unable to Reach,Carla Davis
+EP0001061,399,Maternity,2026-01-14,2026-03-28,Closed,Alice Johnson
+EP0001062,271,Maternity,2025-07-03,2026-01-13,Closed,Emily Chen
+EP0001063,713,Maternity,2025-12-16,2026-02-10,Closed,Carla Davis
+EP0001064,54,High Risk,2025-10-12,2026-04-08,Completed,Carla Davis
+EP0001065,35,Disease Management,2025-08-15,2025-11-11,Completed,Emily Chen
+EP0001066,405,Case Management,2025-09-14,2026-01-24,Closed,Daniel Lopez
+EP0001067,508,Disease Management,2025-10-29,2026-04-04,Unable to Reach,Brian Smith
+EP0001068,701,Maternity,2025-05-02,2025-06-19,Closed,Alice Johnson
+EP0001069,936,High Risk,2025-06-30,2026-04-14,Closed,Daniel Lopez
+EP0001070,272,Behavioral Health,2025-10-26,2026-01-17,Completed,Brian Smith
+EP0001071,76,Disease Management,2025-11-24,2026-03-16,Unable to Reach,Fatima Khan
+EP0001072,246,Maternity,2026-02-04,2026-03-18,Unable to Reach,Emily Chen
+EP0001073,376,Disease Management,2025-11-01,2026-02-12,Completed,Brian Smith
+EP0001074,849,Behavioral Health,2026-03-13,2026-03-22,Completed,Daniel Lopez
+EP0001075,458,Behavioral Health,2025-10-14,2025-10-31,Unable to Reach,Daniel Lopez
+EP0001076,737,Disease Management,2025-11-12,,Open,Daniel Lopez
+EP0001077,106,Behavioral Health,2025-07-13,,Open,Brian Smith
+EP0001078,235,High Risk,2025-08-09,2026-02-18,Unable to Reach,Fatima Khan
+EP0001079,210,Maternity,2025-11-29,2026-04-06,Unable to Reach,Carla Davis
+EP0001080,101,Disease Management,2026-03-14,,Open,Carla Davis
+EP0001081,359,High Risk,2025-12-31,2026-02-07,Unable to Reach,Daniel Lopez
+EP0001082,684,Disease Management,2025-06-18,2025-07-13,Completed,Emily Chen
+EP0001083,380,Disease Management,2025-07-05,,Open,Emily Chen
+EP0001084,85,Case Management,2025-10-24,2026-03-16,Closed,Carla Davis
+EP0001085,792,Case Management,2025-06-16,2025-10-01,Closed,Alice Johnson
+EP0001086,810,Case Management,2025-12-12,2026-01-19,Closed,Alice Johnson
+EP0001087,736,Case Management,2025-09-30,2026-04-05,Closed,Carla Davis
+EP0001088,72,Case Management,2025-11-26,2026-02-21,Completed,Alice Johnson
+EP0001089,101,Behavioral Health,2025-07-02,,Open,Fatima Khan
+EP0001090,669,Disease Management,2025-09-18,2026-03-28,Closed,Carla Davis
+EP0001091,557,Behavioral Health,2025-09-29,2026-03-07,Unable to Reach,Fatima Khan
+EP0001092,749,Case Management,2026-02-03,2026-03-29,Completed,Emily Chen
+EP0001093,202,Maternity,2025-05-19,2025-07-18,Unable to Reach,Brian Smith
+EP0001094,552,High Risk,2025-06-30,2025-07-25,Completed,Emily Chen
+EP0001095,895,Behavioral Health,2025-11-05,,Open,Carla Davis
+EP0001096,485,Behavioral Health,2025-12-10,,Open,Emily Chen
+EP0001097,653,High Risk,2026-02-20,2026-02-28,Completed,Alice Johnson
+EP0001098,771,High Risk,2025-07-05,2025-12-08,Unable to Reach,Emily Chen
+EP0001099,483,Disease Management,2025-05-11,2026-04-14,Completed,Carla Davis
+EP0001100,970,High Risk,2025-11-02,2025-12-10,Completed,Daniel Lopez
+EP0001101,744,High Risk,2025-10-27,2026-02-17,Completed,Brian Smith
+EP0001102,63,Disease Management,2026-01-05,2026-01-20,Closed,Carla Davis
+EP0001103,941,Case Management,2025-10-20,2025-11-03,Unable to Reach,Alice Johnson
+EP0001104,781,Behavioral Health,2026-01-13,2026-03-17,Completed,Brian Smith
+EP0001105,190,Behavioral Health,2025-07-10,2025-08-06,Unable to Reach,Brian Smith
+EP0001106,234,High Risk,2026-03-08,,Open,Fatima Khan
+EP0001107,544,Behavioral Health,2025-07-16,,Open,Fatima Khan
+EP0001108,194,High Risk,2025-06-17,2026-02-13,Completed,Brian Smith
+EP0001109,117,Maternity,2026-01-12,2026-04-03,Completed,Brian Smith
+EP0001110,461,Case Management,2025-11-03,,Open,Daniel Lopez
+EP0001111,734,Behavioral Health,2025-05-21,2025-09-06,Unable to Reach,Alice Johnson
+EP0001112,830,High Risk,2025-11-15,2025-11-25,Closed,Alice Johnson
+EP0001113,950,Maternity,2026-02-12,2026-04-03,Unable to Reach,Alice Johnson
+EP0001114,166,Disease Management,2025-11-06,2025-12-30,Closed,Fatima Khan
+EP0001115,306,High Risk,2026-02-23,,Open,Fatima Khan
+EP0001116,978,Disease Management,2025-11-28,2026-03-14,Unable to Reach,Fatima Khan
+EP0001117,432,High Risk,2025-05-24,2026-02-16,Completed,Fatima Khan
+EP0001118,780,High Risk,2025-07-18,2025-08-19,Unable to Reach,Brian Smith
+EP0001119,474,Disease Management,2025-12-28,,Open,Emily Chen
+EP0001120,378,High Risk,2025-04-23,2026-01-06,Completed,Alice Johnson
+EP0001121,372,Case Management,2025-12-24,2026-03-21,Unable to Reach,Brian Smith
+EP0001122,625,Maternity,2025-09-03,,Open,Fatima Khan
+EP0001123,175,Case Management,2025-09-23,2026-03-09,Closed,Carla Davis
+EP0001124,767,Maternity,2025-05-20,2025-12-22,Closed,Fatima Khan
+EP0001125,637,Maternity,2025-07-19,2025-12-14,Unable to Reach,Alice Johnson
+EP0001126,71,Disease Management,2025-07-05,2025-10-21,Closed,Emily Chen
+EP0001127,385,Maternity,2025-12-02,,Open,Brian Smith
+EP0001128,13,Behavioral Health,2025-05-20,2026-04-17,Completed,Alice Johnson
+EP0001129,977,High Risk,2025-09-03,,Open,Emily Chen
+EP0001130,567,High Risk,2026-01-29,2026-02-14,Unable to Reach,Daniel Lopez
+EP0001131,418,High Risk,2025-11-20,2026-04-09,Completed,Brian Smith
+EP0001132,248,Disease Management,2026-02-01,2026-03-12,Unable to Reach,Carla Davis
+EP0001133,259,Disease Management,2026-01-24,2026-03-02,Unable to Reach,Brian Smith
+EP0001134,756,Behavioral Health,2025-11-07,2026-03-05,Closed,Alice Johnson
+EP0001135,126,Case Management,2025-05-25,,Open,Brian Smith
+EP0001136,72,Case Management,2025-06-15,2025-08-07,Unable to Reach,Brian Smith
+EP0001137,648,Maternity,2025-08-01,,Open,Carla Davis
+EP0001138,214,Maternity,2025-11-24,2026-02-03,Closed,Fatima Khan
+EP0001139,893,Case Management,2025-05-28,,Open,Fatima Khan
+EP0001140,504,Case Management,2025-06-03,,Open,Alice Johnson
+EP0001141,545,Case Management,2025-10-04,,Open,Carla Davis
+EP0001142,786,Behavioral Health,2025-08-25,2026-03-22,Closed,Alice Johnson
+EP0001143,965,Case Management,2025-06-15,2025-12-09,Unable to Reach,Daniel Lopez
+EP0001144,578,High Risk,2025-07-08,2025-10-18,Closed,Brian Smith
+EP0001145,281,Disease Management,2026-03-04,2026-04-05,Closed,Brian Smith
+EP0001146,904,Behavioral Health,2026-01-07,2026-02-26,Closed,Carla Davis
+EP0001147,582,Case Management,2025-11-26,2026-02-06,Unable to Reach,Brian Smith
+EP0001148,481,Case Management,2025-05-19,2025-07-30,Closed,Daniel Lopez
+EP0001149,92,Behavioral Health,2025-05-06,,Open,Brian Smith
+EP0001150,487,High Risk,2026-02-02,,Open,Daniel Lopez
+EP0001151,495,Behavioral Health,2025-05-14,,Open,Carla Davis
+EP0001152,423,Behavioral Health,2025-08-05,2025-12-10,Unable to Reach,Brian Smith
+EP0001153,805,Behavioral Health,2025-06-10,2025-09-30,Closed,Emily Chen
+EP0001154,100,Behavioral Health,2025-11-12,2026-02-03,Unable to Reach,Carla Davis
+EP0001155,4,Behavioral Health,2025-10-16,2026-03-01,Unable to Reach,Brian Smith
+EP0001156,24,Behavioral Health,2025-06-25,2026-03-23,Unable to Reach,Brian Smith
+EP0001157,389,Disease Management,2025-10-27,2026-03-30,Unable to Reach,Brian Smith
+EP0001158,109,Maternity,2025-10-06,2026-01-11,Completed,Daniel Lopez
+EP0001159,408,Maternity,2025-12-15,2026-01-05,Closed,Alice Johnson
+EP0001160,809,High Risk,2026-01-28,,Open,Emily Chen
+EP0001161,640,Maternity,2025-11-15,,Open,Emily Chen
+EP0001162,252,Case Management,2025-05-28,,Open,Emily Chen
+EP0001163,338,Behavioral Health,2026-03-06,2026-04-18,Completed,Fatima Khan
+EP0001164,79,Case Management,2025-09-26,2026-02-12,Unable to Reach,Carla Davis
+EP0001165,818,Maternity,2025-12-19,2026-04-02,Completed,Brian Smith
+EP0001166,410,Case Management,2025-07-07,2025-07-20,Completed,Fatima Khan
+EP0001167,105,Maternity,2025-07-05,2026-01-21,Closed,Fatima Khan
+EP0001168,975,Case Management,2026-02-15,2026-02-19,Closed,Daniel Lopez
+EP0001169,763,Behavioral Health,2025-08-15,2025-11-08,Unable to Reach,Daniel Lopez
+EP0001170,172,High Risk,2025-08-17,2026-02-19,Unable to Reach,Carla Davis
+EP0001171,439,Behavioral Health,2025-08-03,2026-01-01,Closed,Carla Davis
+EP0001172,570,Behavioral Health,2025-08-01,2025-11-26,Completed,Daniel Lopez
+EP0001173,167,Disease Management,2026-01-27,2026-04-09,Closed,Carla Davis
+EP0001174,996,High Risk,2025-08-25,2025-10-23,Completed,Daniel Lopez
+EP0001175,161,Disease Management,2026-01-16,2026-04-01,Closed,Daniel Lopez
+EP0001176,457,Behavioral Health,2025-07-31,2025-12-13,Unable to Reach,Alice Johnson
+EP0001177,667,Case Management,2025-08-06,2026-01-21,Unable to Reach,Carla Davis
+EP0001178,118,Case Management,2025-08-11,2026-03-27,Unable to Reach,Emily Chen
+EP0001179,565,Case Management,2025-11-10,,Open,Emily Chen
+EP0001180,40,Disease Management,2025-10-26,,Open,Carla Davis
+EP0001181,670,Maternity,2025-06-20,2025-10-04,Closed,Brian Smith
+EP0001182,280,Behavioral Health,2025-11-28,2026-03-13,Unable to Reach,Carla Davis
+EP0001183,658,Case Management,2025-11-14,2026-01-23,Closed,Brian Smith
+EP0001184,185,High Risk,2025-05-27,,Open,Fatima Khan
+EP0001185,614,Case Management,2025-08-30,2026-03-14,Completed,Emily Chen
+EP0001186,864,Case Management,2025-06-25,2025-09-17,Closed,Fatima Khan
+EP0001187,539,Maternity,2026-03-06,2026-04-04,Unable to Reach,Brian Smith
+EP0001188,483,Case Management,2025-05-25,,Open,Alice Johnson
+EP0001189,84,High Risk,2026-03-15,,Open,Emily Chen
+EP0001190,843,High Risk,2025-09-18,2025-11-15,Unable to Reach,Daniel Lopez
+EP0001191,299,Disease Management,2025-07-12,2025-12-23,Unable to Reach,Emily Chen
+EP0001192,705,High Risk,2025-08-17,,Open,Emily Chen
+EP0001193,378,Behavioral Health,2025-07-23,2025-12-20,Completed,Emily Chen
+EP0001194,328,Case Management,2025-07-15,,Open,Alice Johnson
+EP0001195,903,Disease Management,2026-02-03,,Open,Carla Davis
+EP0001196,199,Case Management,2025-05-01,2026-03-31,Closed,Carla Davis
+EP0001197,989,Behavioral Health,2025-11-29,2026-02-18,Completed,Daniel Lopez
+EP0001198,186,Disease Management,2026-02-12,2026-03-20,Unable to Reach,Emily Chen
+EP0001199,983,Case Management,2025-06-30,2025-07-14,Unable to Reach,Daniel Lopez
+EP0001200,472,Behavioral Health,2025-12-18,2026-02-08,Completed,Emily Chen
+EP0001201,427,High Risk,2025-10-13,,Open,Daniel Lopez
+EP0001202,559,Disease Management,2025-10-25,2025-11-14,Completed,Fatima Khan
+EP0001203,762,Disease Management,2025-08-15,2025-09-02,Closed,Carla Davis
+EP0001204,883,Disease Management,2025-06-21,,Open,Emily Chen
+EP0001205,19,Disease Management,2025-08-16,,Open,Fatima Khan
+EP0001206,804,Case Management,2025-09-05,2026-01-10,Closed,Brian Smith
+EP0001207,574,High Risk,2025-07-25,2026-03-09,Closed,Brian Smith
+EP0001208,799,Maternity,2025-05-09,,Open,Emily Chen
+EP0001209,158,Behavioral Health,2025-07-27,2026-02-09,Unable to Reach,Brian Smith
+EP0001210,371,Case Management,2025-05-29,2026-01-24,Closed,Alice Johnson
+EP0001211,109,Case Management,2025-06-20,2026-04-10,Unable to Reach,Alice Johnson
+EP0001212,324,Disease Management,2025-10-03,2025-11-09,Unable to Reach,Alice Johnson
+EP0001213,683,High Risk,2026-01-06,2026-01-19,Completed,Fatima Khan
+EP0001214,689,High Risk,2026-02-20,2026-02-28,Completed,Alice Johnson
+EP0001215,109,High Risk,2026-02-13,2026-03-08,Completed,Daniel Lopez
+EP0001216,289,High Risk,2025-06-25,,Open,Carla Davis
+EP0001217,368,Disease Management,2025-11-30,2025-12-06,Unable to Reach,Emily Chen
+EP0001218,278,High Risk,2025-10-14,2025-12-31,Closed,Fatima Khan
+EP0001219,549,Maternity,2026-02-23,2026-03-17,Unable to Reach,Alice Johnson
+EP0001220,831,Case Management,2025-12-31,2026-04-06,Unable to Reach,Carla Davis
+EP0001221,350,High Risk,2026-02-19,2026-03-16,Unable to Reach,Alice Johnson
+EP0001222,612,High Risk,2025-09-20,2025-11-18,Closed,Alice Johnson
+EP0001223,548,Maternity,2025-10-25,2026-02-07,Unable to Reach,Fatima Khan
+EP0001224,804,High Risk,2025-06-02,2026-01-07,Closed,Brian Smith
+EP0001225,990,Case Management,2026-02-21,,Open,Brian Smith
+EP0001226,228,High Risk,2026-02-03,2026-03-09,Completed,Alice Johnson
+EP0001227,635,Case Management,2025-09-15,2025-11-06,Unable to Reach,Brian Smith
+EP0001228,818,Maternity,2025-09-19,2025-09-22,Unable to Reach,Daniel Lopez
+EP0001229,174,Maternity,2026-03-10,,Open,Emily Chen
+EP0001230,829,High Risk,2025-10-22,2026-02-01,Completed,Brian Smith
+EP0001231,312,High Risk,2025-05-30,2025-06-08,Closed,Emily Chen
+EP0001232,504,Behavioral Health,2026-01-07,2026-02-11,Completed,Emily Chen
+EP0001233,79,Maternity,2026-01-13,2026-03-26,Closed,Alice Johnson
+EP0001234,78,Behavioral Health,2025-06-11,,Open,Emily Chen
+EP0001235,64,High Risk,2025-08-11,2025-11-08,Closed,Fatima Khan
+EP0001236,596,Disease Management,2025-07-25,2025-11-23,Closed,Fatima Khan
+EP0001237,661,Case Management,2025-05-27,2025-08-15,Unable to Reach,Carla Davis
+EP0001238,228,Behavioral Health,2025-07-06,,Open,Brian Smith
+EP0001239,423,Behavioral Health,2025-10-29,2025-11-12,Unable to Reach,Fatima Khan
+EP0001240,387,Case Management,2025-06-04,2025-12-03,Unable to Reach,Daniel Lopez
+EP0001241,165,Maternity,2025-08-07,2025-10-27,Closed,Daniel Lopez
+EP0001242,656,Behavioral Health,2025-07-22,2026-02-18,Closed,Daniel Lopez
+EP0001243,937,Behavioral Health,2025-08-09,2025-08-16,Completed,Emily Chen
+EP0001244,141,Behavioral Health,2025-07-19,,Open,Carla Davis
+EP0001245,543,Maternity,2025-05-03,2026-04-05,Unable to Reach,Carla Davis
+EP0001246,825,Disease Management,2025-05-30,,Open,Emily Chen
+EP0001247,284,Maternity,2025-10-13,2026-02-05,Closed,Alice Johnson
+EP0001248,223,Case Management,2025-06-10,2025-06-25,Closed,Alice Johnson
+EP0001249,438,High Risk,2025-10-12,,Open,Fatima Khan
+EP0001250,703,Disease Management,2025-05-03,2025-09-13,Closed,Fatima Khan
+EP0001251,330,Case Management,2026-01-23,2026-02-21,Unable to Reach,Brian Smith
+EP0001252,496,Behavioral Health,2025-12-19,2026-01-27,Unable to Reach,Emily Chen
+EP0001253,293,High Risk,2025-12-27,,Open,Alice Johnson
+EP0001254,213,Behavioral Health,2026-02-11,2026-04-07,Completed,Brian Smith
+EP0001255,99,Maternity,2026-02-10,2026-03-27,Unable to Reach,Brian Smith
+EP0001256,27,Disease Management,2025-10-14,,Open,Daniel Lopez
+EP0001257,254,Disease Management,2025-11-12,2025-12-29,Completed,Fatima Khan
+EP0001258,292,Disease Management,2025-10-05,2025-10-05,Completed,Emily Chen
+EP0001259,680,Disease Management,2025-08-22,2025-10-31,Completed,Carla Davis
+EP0001260,419,High Risk,2025-07-24,2025-08-02,Unable to Reach,Fatima Khan
+EP0001261,548,Case Management,2025-07-09,2025-11-17,Completed,Alice Johnson
+EP0001262,77,Maternity,2025-09-07,2026-03-08,Unable to Reach,Fatima Khan
+EP0001263,198,Case Management,2026-03-14,2026-04-16,Unable to Reach,Carla Davis
+EP0001264,852,Disease Management,2025-12-03,2026-04-07,Completed,Carla Davis
+EP0001265,261,Maternity,2026-03-06,,Open,Emily Chen
+EP0001266,859,High Risk,2026-02-14,,Open,Emily Chen
+EP0001267,106,Maternity,2025-11-02,2026-01-14,Closed,Brian Smith
+EP0001268,677,Behavioral Health,2025-06-15,2025-12-22,Unable to Reach,Carla Davis
+EP0001269,631,Case Management,2025-11-06,,Open,Daniel Lopez
+EP0001270,663,Disease Management,2025-06-28,2025-12-18,Unable to Reach,Brian Smith
+EP0001271,744,Behavioral Health,2025-05-26,2026-04-16,Unable to Reach,Alice Johnson
+EP0001272,109,Case Management,2025-09-21,2025-11-23,Closed,Alice Johnson
+EP0001273,119,Case Management,2026-02-02,2026-03-31,Closed,Fatima Khan
+EP0001274,952,Maternity,2025-10-01,2026-03-25,Unable to Reach,Brian Smith
+EP0001275,579,Case Management,2025-07-07,2026-02-24,Closed,Alice Johnson
+EP0001276,613,Behavioral Health,2025-10-14,2025-12-14,Completed,Emily Chen
+EP0001277,716,Case Management,2025-11-07,,Open,Daniel Lopez
+EP0001278,490,Behavioral Health,2025-11-20,,Open,Carla Davis
+EP0001279,257,Maternity,2025-11-29,2026-03-25,Completed,Carla Davis
+EP0001280,58,Case Management,2025-07-11,,Open,Fatima Khan
+EP0001281,271,Maternity,2025-08-14,2025-12-07,Closed,Alice Johnson
+EP0001282,772,Disease Management,2025-12-05,2026-04-08,Unable to Reach,Fatima Khan
+EP0001283,669,Case Management,2026-01-13,2026-03-18,Completed,Fatima Khan
+EP0001284,477,Maternity,2025-06-23,2026-03-11,Unable to Reach,Alice Johnson
+EP0001285,731,Disease Management,2025-08-09,2025-12-10,Closed,Daniel Lopez
+EP0001286,714,Case Management,2025-12-08,2026-01-21,Closed,Alice Johnson
+EP0001287,699,High Risk,2025-06-08,2026-01-20,Unable to Reach,Carla Davis
+EP0001288,137,Disease Management,2025-06-06,2025-11-22,Closed,Carla Davis
+EP0001289,799,High Risk,2025-10-29,2025-12-28,Closed,Brian Smith
+EP0001290,397,Case Management,2025-10-20,2026-01-20,Closed,Emily Chen
+EP0001291,313,Disease Management,2026-02-17,,Open,Brian Smith
+EP0001292,141,Case Management,2025-06-14,2025-12-04,Completed,Fatima Khan
+EP0001293,222,Behavioral Health,2025-11-07,,Open,Brian Smith
+EP0001294,449,Disease Management,2025-10-23,,Open,Alice Johnson
+EP0001295,865,High Risk,2025-07-15,2026-01-01,Unable to Reach,Fatima Khan
+EP0001296,723,Maternity,2025-08-19,2026-02-02,Completed,Fatima Khan
+EP0001297,252,Behavioral Health,2025-09-09,2025-10-31,Closed,Alice Johnson
+EP0001298,330,Case Management,2025-12-23,2026-04-18,Closed,Emily Chen
+EP0001299,872,Maternity,2026-03-06,2026-03-06,Completed,Carla Davis
+EP0001300,786,Maternity,2025-11-26,2026-02-05,Unable to Reach,Fatima Khan
+EP0001301,295,Disease Management,2025-07-10,2026-03-23,Unable to Reach,Emily Chen
+EP0001302,783,Maternity,2025-08-04,,Open,Brian Smith
+EP0001303,923,Case Management,2025-09-29,2025-11-24,Closed,Fatima Khan
+EP0001304,878,High Risk,2025-05-09,2026-03-07,Unable to Reach,Brian Smith
+EP0001305,100,Behavioral Health,2026-03-12,,Open,Daniel Lopez
+EP0001306,519,Disease Management,2025-09-13,2025-10-07,Completed,Daniel Lopez
+EP0001307,697,Disease Management,2025-04-21,2026-01-02,Completed,Brian Smith
+EP0001308,334,Behavioral Health,2025-06-30,,Open,Fatima Khan
+EP0001309,874,Disease Management,2025-10-21,,Open,Carla Davis
+EP0001310,750,High Risk,2025-07-08,,Open,Brian Smith
+EP0001311,805,Case Management,2025-11-11,2026-02-04,Unable to Reach,Brian Smith
+EP0001312,377,High Risk,2025-08-31,2025-10-27,Closed,Daniel Lopez
+EP0001313,394,Maternity,2025-09-16,2025-11-14,Completed,Alice Johnson
+EP0001314,784,Case Management,2025-11-19,2026-03-28,Closed,Carla Davis
+EP0001315,158,Disease Management,2025-05-04,2025-09-17,Completed,Alice Johnson
+EP0001316,671,Maternity,2025-12-21,,Open,Emily Chen
+EP0001317,291,Maternity,2025-12-12,2025-12-21,Unable to Reach,Emily Chen
+EP0001318,275,High Risk,2025-08-19,2025-11-01,Unable to Reach,Fatima Khan
+EP0001319,521,Behavioral Health,2025-05-01,2025-12-29,Unable to Reach,Carla Davis
+EP0001320,362,High Risk,2026-02-03,2026-02-20,Closed,Alice Johnson
+EP0001321,174,Disease Management,2025-05-05,2025-08-01,Closed,Daniel Lopez
+EP0001322,678,Maternity,2025-12-20,,Open,Carla Davis
+EP0001323,685,Case Management,2025-12-11,2026-03-31,Completed,Emily Chen
+EP0001324,893,Maternity,2026-02-12,2026-02-22,Closed,Carla Davis
+EP0001325,664,High Risk,2025-07-10,,Open,Brian Smith
+EP0001326,156,Maternity,2025-08-13,2026-02-14,Completed,Alice Johnson
+EP0001327,33,High Risk,2026-03-14,2026-04-07,Closed,Alice Johnson
+EP0001328,352,High Risk,2025-09-27,2026-02-04,Completed,Fatima Khan
+EP0001329,66,Case Management,2026-01-22,2026-04-03,Unable to Reach,Emily Chen
+EP0001330,894,Disease Management,2025-05-11,2025-05-24,Completed,Daniel Lopez
+EP0001331,857,Behavioral Health,2025-05-27,2026-03-17,Closed,Fatima Khan
+EP0001332,960,Behavioral Health,2025-05-28,2025-07-09,Closed,Carla Davis
+EP0001333,845,Disease Management,2025-06-01,2025-09-22,Closed,Carla Davis
+EP0001334,920,Disease Management,2025-10-09,2025-11-13,Completed,Emily Chen
+EP0001335,386,Disease Management,2025-04-21,2025-07-15,Unable to Reach,Carla Davis
+EP0001336,324,Disease Management,2026-03-15,,Open,Emily Chen
+EP0001337,122,Maternity,2025-11-11,2025-12-18,Closed,Carla Davis
+EP0001338,246,Case Management,2026-02-13,2026-03-13,Unable to Reach,Fatima Khan
+EP0001339,370,Maternity,2026-02-18,2026-04-06,Unable to Reach,Daniel Lopez
+EP0001340,968,Maternity,2025-06-22,2026-04-12,Unable to Reach,Brian Smith
+EP0001341,549,High Risk,2026-02-22,2026-02-24,Unable to Reach,Brian Smith
+EP0001342,52,Disease Management,2025-09-08,2025-10-18,Completed,Brian Smith
+EP0001343,207,Behavioral Health,2026-01-08,2026-02-22,Completed,Fatima Khan
+EP0001344,601,Case Management,2025-10-02,2025-12-14,Unable to Reach,Alice Johnson
+EP0001345,811,Disease Management,2025-11-12,2026-01-13,Completed,Carla Davis
+EP0001346,628,High Risk,2026-03-01,2026-04-17,Closed,Brian Smith
+EP0001347,461,Maternity,2025-10-15,2026-02-04,Closed,Alice Johnson
+EP0001348,675,High Risk,2026-01-22,2026-02-04,Unable to Reach,Emily Chen
+EP0001349,376,Maternity,2025-07-31,2025-12-01,Unable to Reach,Carla Davis
+EP0001350,913,Behavioral Health,2025-09-09,2025-11-15,Completed,Emily Chen
+EP0001351,99,Case Management,2025-06-10,2025-08-02,Unable to Reach,Daniel Lopez
+EP0001352,951,High Risk,2025-05-28,2025-12-24,Completed,Alice Johnson
+EP0001353,383,Maternity,2026-02-01,2026-03-09,Completed,Brian Smith
+EP0001354,412,Behavioral Health,2025-11-15,,Open,Alice Johnson
+EP0001355,754,High Risk,2025-09-29,2026-03-04,Unable to Reach,Daniel Lopez
+EP0001356,723,Disease Management,2025-11-01,2025-11-14,Completed,Brian Smith
+EP0001357,146,Behavioral Health,2025-07-31,,Open,Fatima Khan
+EP0001358,714,High Risk,2025-11-09,,Open,Alice Johnson
+EP0001359,113,Behavioral Health,2026-02-21,,Open,Daniel Lopez
+EP0001360,620,Maternity,2025-08-11,2025-11-18,Unable to Reach,Emily Chen
+EP0001361,862,Maternity,2025-11-26,2025-12-23,Unable to Reach,Fatima Khan
+EP0001362,178,Maternity,2025-05-21,2026-01-19,Unable to Reach,Emily Chen
+EP0001363,901,High Risk,2025-05-04,2025-11-10,Completed,Brian Smith
+EP0001364,316,Maternity,2025-08-19,,Open,Daniel Lopez
+EP0001365,823,High Risk,2026-01-13,2026-01-18,Completed,Carla Davis
+EP0001366,205,Case Management,2025-08-24,2026-01-08,Unable to Reach,Fatima Khan
+EP0001367,664,Case Management,2025-11-30,2026-03-15,Completed,Emily Chen
+EP0001368,886,Behavioral Health,2026-02-27,2026-03-27,Closed,Carla Davis
+EP0001369,919,Behavioral Health,2026-02-01,2026-02-05,Closed,Emily Chen
+EP0001370,253,Disease Management,2025-11-10,,Open,Fatima Khan
+EP0001371,15,High Risk,2025-05-22,2025-06-18,Completed,Carla Davis
+EP0001372,898,Disease Management,2025-04-30,2026-03-29,Completed,Carla Davis
+EP0001373,263,Behavioral Health,2025-11-25,,Open,Alice Johnson
+EP0001374,832,High Risk,2025-07-18,2026-03-10,Closed,Carla Davis
+EP0001375,170,Case Management,2025-11-09,2025-11-16,Completed,Alice Johnson
+EP0001376,159,High Risk,2025-05-02,2025-06-12,Unable to Reach,Fatima Khan
+EP0001377,709,Maternity,2025-11-09,2026-02-18,Completed,Emily Chen
+EP0001378,696,Maternity,2025-07-13,2025-08-12,Closed,Brian Smith
+EP0001379,5,Case Management,2026-02-20,2026-02-26,Unable to Reach,Brian Smith
+EP0001380,963,Case Management,2025-10-05,2025-10-30,Completed,Alice Johnson
+EP0001381,106,Disease Management,2025-07-10,2026-03-08,Completed,Emily Chen
+EP0001382,504,Maternity,2026-02-17,2026-04-15,Closed,Emily Chen
+EP0001383,227,Disease Management,2026-02-28,2026-03-26,Unable to Reach,Brian Smith
+EP0001384,893,Case Management,2025-09-04,,Open,Brian Smith
+EP0001385,703,Maternity,2025-10-17,2026-03-22,Unable to Reach,Alice Johnson
+EP0001386,523,Disease Management,2025-07-13,2025-10-26,Unable to Reach,Daniel Lopez
+EP0001387,262,Maternity,2025-05-03,,Open,Daniel Lopez
+EP0001388,752,High Risk,2025-07-28,2026-01-25,Unable to Reach,Alice Johnson
+EP0001389,732,Case Management,2026-02-03,2026-02-08,Unable to Reach,Brian Smith
+EP0001390,259,Case Management,2025-05-19,,Open,Carla Davis
+EP0001391,436,Disease Management,2025-04-24,,Open,Fatima Khan
+EP0001392,605,Case Management,2025-11-29,2026-01-17,Unable to Reach,Carla Davis
+EP0001393,421,High Risk,2025-11-13,2025-12-07,Unable to Reach,Fatima Khan
+EP0001394,215,Disease Management,2025-06-15,2026-02-06,Closed,Alice Johnson
+EP0001395,375,Disease Management,2026-02-19,,Open,Fatima Khan
+EP0001396,752,Disease Management,2026-01-11,2026-01-21,Completed,Daniel Lopez
+EP0001397,696,Behavioral Health,2025-08-18,2025-08-31,Closed,Brian Smith
+EP0001398,740,Behavioral Health,2025-10-04,2025-11-28,Closed,Alice Johnson
+EP0001399,726,Behavioral Health,2026-03-05,2026-03-29,Completed,Daniel Lopez
+EP0001400,118,Behavioral Health,2025-06-07,,Open,Emily Chen
+EP0001401,455,Behavioral Health,2025-11-19,2026-03-15,Closed,Alice Johnson
+EP0001402,159,Case Management,2025-05-21,2025-07-01,Closed,Emily Chen
+EP0001403,122,Maternity,2025-06-18,2026-02-24,Closed,Fatima Khan
+EP0001404,708,High Risk,2026-02-12,2026-04-03,Closed,Carla Davis
+EP0001405,577,Disease Management,2025-09-12,,Open,Daniel Lopez
+EP0001406,325,Case Management,2025-07-06,2025-07-22,Closed,Alice Johnson
+EP0001407,887,Disease Management,2025-08-06,2025-10-30,Unable to Reach,Emily Chen
+EP0001408,887,Maternity,2025-10-31,,Open,Alice Johnson
+EP0001409,42,Maternity,2026-02-12,,Open,Emily Chen
+EP0001410,450,Disease Management,2026-02-08,2026-03-25,Unable to Reach,Daniel Lopez
+EP0001411,563,Case Management,2025-09-28,2026-03-14,Unable to Reach,Fatima Khan
+EP0001412,4,Behavioral Health,2025-12-15,2026-03-28,Closed,Alice Johnson
+EP0001413,563,Disease Management,2025-12-30,,Open,Alice Johnson
+EP0001414,403,Case Management,2025-05-28,,Open,Fatima Khan
+EP0001415,318,High Risk,2026-03-15,2026-04-18,Completed,Alice Johnson
+EP0001416,513,Behavioral Health,2025-10-05,2025-10-06,Closed,Fatima Khan
+EP0001417,883,Behavioral Health,2025-10-18,2025-11-04,Closed,Daniel Lopez
+EP0001418,386,Behavioral Health,2025-08-11,2025-11-04,Completed,Emily Chen
+EP0001419,447,Maternity,2025-12-20,,Open,Brian Smith
+EP0001420,804,Case Management,2025-12-02,2026-01-07,Completed,Brian Smith
+EP0001421,692,Disease Management,2025-07-22,2025-09-15,Completed,Daniel Lopez
+EP0001422,88,Case Management,2025-09-08,2026-01-20,Unable to Reach,Daniel Lopez
+EP0001423,914,Maternity,2025-09-16,2025-11-25,Unable to Reach,Brian Smith
+EP0001424,684,Behavioral Health,2026-03-01,2026-03-28,Completed,Brian Smith
+EP0001425,616,Maternity,2025-08-25,2026-02-27,Closed,Brian Smith
+EP0001426,525,Maternity,2025-12-09,,Open,Fatima Khan
+EP0001427,358,High Risk,2026-01-27,,Open,Fatima Khan
+EP0001428,83,Maternity,2026-03-12,,Open,Fatima Khan
+EP0001429,678,Case Management,2026-02-18,2026-04-09,Unable to Reach,Emily Chen
+EP0001430,142,Case Management,2025-12-05,2026-03-23,Closed,Brian Smith
+EP0001431,714,Case Management,2025-12-22,,Open,Alice Johnson
+EP0001432,50,Disease Management,2025-08-21,,Open,Daniel Lopez
+EP0001433,47,Behavioral Health,2026-01-24,2026-03-23,Completed,Alice Johnson
+EP0001434,536,Maternity,2025-12-04,2026-03-26,Completed,Alice Johnson
+EP0001435,500,Behavioral Health,2026-02-09,2026-04-14,Completed,Daniel Lopez
+EP0001436,808,Behavioral Health,2025-07-09,,Open,Fatima Khan
+EP0001437,935,Case Management,2025-05-23,2026-01-25,Closed,Carla Davis
+EP0001438,278,Maternity,2026-03-13,2026-03-13,Completed,Daniel Lopez
+EP0001439,280,Behavioral Health,2025-07-14,2025-12-26,Completed,Emily Chen
+EP0001440,191,Behavioral Health,2025-04-19,2025-11-22,Unable to Reach,Alice Johnson
+EP0001441,686,Behavioral Health,2026-01-23,2026-04-15,Completed,Fatima Khan
+EP0001442,271,Disease Management,2025-07-04,2026-01-27,Completed,Emily Chen
+EP0001443,896,Behavioral Health,2025-09-27,2025-10-29,Unable to Reach,Brian Smith
+EP0001444,510,Case Management,2026-01-20,2026-04-18,Completed,Brian Smith
+EP0001445,663,Maternity,2025-08-19,2026-03-26,Completed,Alice Johnson
+EP0001446,632,High Risk,2026-03-05,,Open,Carla Davis
+EP0001447,13,High Risk,2025-06-06,2025-07-23,Closed,Alice Johnson
+EP0001448,187,Maternity,2026-02-27,2026-03-09,Closed,Brian Smith
+EP0001449,941,Case Management,2026-01-21,2026-04-04,Closed,Alice Johnson
+EP0001450,561,Case Management,2025-07-17,2025-08-29,Completed,Alice Johnson
+EP0001451,482,High Risk,2026-01-16,,Open,Fatima Khan
+EP0001452,946,Behavioral Health,2026-01-04,2026-04-06,Completed,Emily Chen
+EP0001453,388,High Risk,2026-01-07,2026-04-16,Closed,Carla Davis
+EP0001454,543,High Risk,2025-06-09,,Open,Emily Chen
+EP0001455,755,Behavioral Health,2025-12-19,2026-01-10,Unable to Reach,Carla Davis
+EP0001456,283,Case Management,2025-04-28,2025-12-20,Closed,Fatima Khan
+EP0001457,303,High Risk,2026-01-26,2026-02-04,Completed,Brian Smith
+EP0001458,766,Disease Management,2025-11-15,2026-04-18,Unable to Reach,Alice Johnson
+EP0001459,755,Maternity,2025-09-19,2025-10-31,Completed,Alice Johnson
+EP0001460,156,High Risk,2025-06-10,2026-02-08,Closed,Fatima Khan
+EP0001461,750,High Risk,2025-07-18,2025-10-24,Unable to Reach,Fatima Khan
+EP0001462,639,Case Management,2025-12-09,,Open,Alice Johnson
+EP0001463,94,High Risk,2025-06-09,2025-06-27,Unable to Reach,Brian Smith
+EP0001464,592,High Risk,2025-08-27,,Open,Daniel Lopez
+EP0001465,752,Case Management,2026-01-12,2026-02-27,Completed,Daniel Lopez
+EP0001466,662,High Risk,2025-06-09,2025-07-27,Completed,Brian Smith
+EP0001467,305,Case Management,2025-07-24,2026-03-17,Closed,Daniel Lopez
+EP0001468,535,Maternity,2025-08-19,2025-12-02,Closed,Fatima Khan
+EP0001469,146,Behavioral Health,2026-02-27,2026-03-26,Completed,Brian Smith
+EP0001470,154,Disease Management,2026-03-11,,Open,Fatima Khan
+EP0001471,4,High Risk,2025-10-09,2025-12-26,Closed,Carla Davis
+EP0001472,753,Maternity,2025-10-08,2026-03-03,Completed,Alice Johnson
+EP0001473,476,Case Management,2025-11-27,2026-02-03,Closed,Emily Chen
+EP0001474,279,High Risk,2025-10-20,2026-01-12,Completed,Carla Davis
+EP0001475,908,Case Management,2025-08-21,2026-02-11,Unable to Reach,Fatima Khan
+EP0001476,284,Case Management,2025-05-03,2026-03-13,Unable to Reach,Fatima Khan
+EP0001477,877,Disease Management,2025-11-16,2026-01-10,Unable to Reach,Alice Johnson
+EP0001478,147,Case Management,2025-10-20,2026-02-22,Closed,Carla Davis
+EP0001479,308,Case Management,2025-05-25,2025-06-03,Unable to Reach,Alice Johnson
+EP0001480,946,High Risk,2025-05-11,2026-01-19,Closed,Emily Chen
+EP0001481,977,Behavioral Health,2025-05-21,2025-09-24,Completed,Daniel Lopez
+EP0001482,744,High Risk,2026-02-13,2026-03-07,Completed,Emily Chen
+EP0001483,46,Maternity,2026-03-10,2026-03-25,Completed,Daniel Lopez
+EP0001484,747,Disease Management,2025-09-27,2026-01-11,Unable to Reach,Alice Johnson
+EP0001485,992,Maternity,2025-05-09,,Open,Brian Smith
+EP0001486,94,Behavioral Health,2025-05-04,,Open,Emily Chen
+EP0001487,499,Case Management,2025-10-29,,Open,Fatima Khan
+EP0001488,828,High Risk,2025-10-30,2026-02-20,Unable to Reach,Daniel Lopez
+EP0001489,76,Disease Management,2026-03-14,,Open,Emily Chen
+EP0001490,969,Disease Management,2025-06-21,2026-02-27,Unable to Reach,Fatima Khan
+EP0001491,868,Disease Management,2025-09-16,2025-10-02,Completed,Carla Davis
+EP0001492,619,Case Management,2025-04-22,2025-07-20,Unable to Reach,Fatima Khan
+EP0001493,906,Case Management,2025-09-12,,Open,Fatima Khan
+EP0001494,209,Disease Management,2026-01-19,2026-03-16,Closed,Carla Davis
+EP0001495,148,Behavioral Health,2025-10-29,2026-02-05,Unable to Reach,Fatima Khan
+EP0001496,173,Maternity,2025-10-02,,Open,Daniel Lopez
+EP0001497,193,High Risk,2026-02-11,2026-03-23,Closed,Alice Johnson
+EP0001498,805,Disease Management,2025-05-05,2026-03-20,Closed,Emily Chen
+EP0001499,972,Disease Management,2026-01-05,,Open,Emily Chen
+EP0001500,952,Behavioral Health,2025-07-08,2025-11-29,Closed,Brian Smith

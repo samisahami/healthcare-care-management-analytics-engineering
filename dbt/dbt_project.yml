@@ -1,0 +1,27 @@
+name: 'healthcare_cm_engagement'
+version: '1.0.0'
+config-version: 2
+
+profile: 'healthcare_cm_engagement'
+
+model-paths: ["models"]
+seed-paths: ["seeds"]
+test-paths: ["tests"]
+macro-paths: ["macros"]
+snapshot-paths: ["snapshots"]
+
+clean-targets:
+  - "target"
+  - "dbt_packages"
+  - "logs"
+
+models:
+  healthcare_cm_engagement:
+    staging:
+      +materialized: view
+    intermediate:
+      +materialized: view
+    dimensions:
+      +materialized: table
+    marts:
+      +materialized: table

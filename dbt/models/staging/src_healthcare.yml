@@ -1,0 +1,12 @@
+version: 2
+
+sources:
+  - name: healthcare_raw
+    database: HEALTHCARE_CM_DB
+    schema: RAW
+    tables:
+      - name: members
+      - name: eligibility
+      - name: claims
+      - name: interactions
+      - name: care_management_episodes

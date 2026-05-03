@@ -1,0 +1,68 @@
+version: 2
+
+models:
+  - name: stg_members
+    description: Staging model for healthcare members.
+    columns:
+      - name: member_id
+        description: Unique member identifier.
+        tests:
+          - not_null
+          - unique
+
+  - name: stg_eligibility
+    description: Staging model for member eligibility records.
+    columns:
+      - name: eligibility_id
+        description: Unique eligibility record identifier.
+        tests:
+          - not_null
+          - unique
+      - name: member_id
+        description: Foreign key to member.
+        tests:
+          - not_null
+
+  - name: stg_claims
+    description: Staging model for healthcare claims.
+    columns:
+      - name: claim_id
+        description: Unique claim identifier.
+        tests:
+          - not_null
+          - unique
+      - name: member_id
+        description: Foreign key to member.
+        tests:
+          - not_null
+      - name: claim_type
+        description: Type of claim.
+        tests:
+          - accepted_values:
+              values: ['IP', 'OP', 'ER', 'RX']
+
+  - name: stg_interactions
+    description: Staging model for member outreach interactions.
+    columns:
+      - name: interaction_id
+        description: Unique interaction identifier.
+        tests:
+          - not_null
+          - unique
+      - name: member_id
+        description: Foreign key to member.
+        tests:
+          - not_null
+
+  - name: stg_care_management_episodes
+    description: Staging model for care management episodes.
+    columns:
+      - name: episode_id
+        description: Unique care management episode identifier.
+        tests:
+          - not_null
+          - unique
+      - name: member_id
+        description: Foreign key to member.
+        tests:
+          - not_null

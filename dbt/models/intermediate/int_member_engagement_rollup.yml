@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: int_member_engagement_rollup
+    description: Member-level engagement summary derived from outreach interactions.
+    columns:
+      - name: member_id
+        description: Unique member identifier.
+        tests:
+          - not_null
+          - unique
+
+      - name: total_interactions
+        description: Total number of outreach interactions for the member.
+
+      - name: successful_interactions
+        description: Number of successful outreach interactions for the member.
+
+      - name: last_interaction_date
+        description: Most recent outreach interaction date.
+
+      - name: engagement_status
+        description: Derived member engagement flag based on successful interactions.
+        tests:
+          - accepted_values:
+              values: ['Engaged', 'Not Engaged']

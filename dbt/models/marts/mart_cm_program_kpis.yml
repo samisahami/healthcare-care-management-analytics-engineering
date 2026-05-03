@@ -1,0 +1,30 @@
+version: 2
+
+models:
+  - name: mart_cm_program_kpis
+    description: Executive KPI mart summarizing care management engagement, utilization, and outreach priority trends.
+    columns:
+      - name: employer_group
+        description: Employer group associated with the member population.
+        tests:
+          - not_null
+
+      - name: risk_level
+        description: Member risk level.
+        tests:
+          - not_null
+
+      - name: engagement_status
+        description: Member engagement status.
+        tests:
+          - accepted_values:
+              values: ['Engaged', 'Not Engaged']
+
+      - name: outreach_priority
+        description: Outreach priority category.
+        tests:
+          - accepted_values:
+              values: ['High Priority', 'Medium Priority', 'Low Priority']
+
+      - name: member_count
+        description: Count of members in the KPI segment.

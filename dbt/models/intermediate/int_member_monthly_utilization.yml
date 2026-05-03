@@ -1,0 +1,42 @@
+version: 2
+
+models:
+  - name: int_member_monthly_utilization
+    description: Member-month utilization summary derived from claims data.
+    columns:
+      - name: member_id
+        description: Unique member identifier.
+        tests:
+          - not_null
+
+      - name: service_month
+        description: Month of service for the utilization summary.
+        tests:
+          - not_null
+
+      - name: total_claims
+        description: Total claims for the member in the month.
+
+      - name: total_allowed_amount
+        description: Total allowed claim amount for the member in the month.
+
+      - name: total_paid_amount
+        description: Total paid claim amount for the member in the month.
+
+      - name: ip_claims
+        description: Number of inpatient claims in the month.
+
+      - name: er_claims
+        description: Number of emergency room claims in the month.
+
+      - name: op_claims
+        description: Number of outpatient claims in the month.
+
+      - name: rx_claims
+        description: Number of pharmacy claims in the month.
+
+    tests:
+      - dbt_utils.unique_combination_of_columns:
+          combination_of_columns:
+            - member_id
+            - service_month
