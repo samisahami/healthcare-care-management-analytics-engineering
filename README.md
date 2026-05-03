@@ -1,46 +1,69 @@
-# Healthcare Care Management Engagement & Utilization Early Warning Pipeline
+# Healthcare Care Management Engagement Pipeline (dbt)
 
 ## Overview
-This project simulates a real-world healthcare analytics engineering use case inspired by care management and stakeholder reporting workflows in a healthcare analytics environment.
+This project builds an end-to-end healthcare analytics pipeline designed to identify high-risk members for care management outreach.
 
-The goal is to build an end-to-end analytics pipeline that identifies member engagement patterns, utilization trends, and rising-risk members who may require care management outreach.
+Using dbt, raw healthcare data (claims, eligibility, interactions, care management episodes) is transformed into analytics-ready models to support outreach prioritization.
 
-## Business Problem
-Healthcare leadership and care management teams need visibility into:
-- which members are engaged vs. not engaged
-- how engagement relates to utilization and cost
-- which members are showing signs of rising risk
-- where outreach efforts should be prioritized
+## Objective
+Identify members who are:
+- High cost
+- High risk
+- Not engaged in care management
 
-## Project Goals
-- Generate realistic synthetic healthcare datasets with Python
-- Load raw data into Snowflake
-- Transform and test data using dbt
-- Build analytics marts for stakeholder reporting
-- Use Python/Jupyter for EDA, QA, anomaly detection, and trend analysis
-- Document the project like a production-style analytics engineering workflow
+## Tech Stack
+- dbt (data modeling)
+- Snowflake (data warehouse)
+- Python / Pandas (EDA & validation)
+- SQL (core transformations)
 
-## Planned Data Domains
-- members
-- eligibility
-- claims
-- care management episodes
-- outreach interactions
-- diagnosis/procedure categories
-- provider/facility reference data
+## Data Pipeline
+- **Staging:** Clean raw data sources
+- **Intermediate:** Aggregate utilization & engagement
+- **Mart:** Final outreach prioritization model
 
-## Planned Tech Stack
-- Snowflake
-- dbt
-- SQL
-- YAML tests/docs
-- Python
-- Jupyter
-- Git/GitHub
+## Key Model
+`mart_member_outreach_priority`
 
-## Planned Outputs
-- member-month utilization mart
-- engagement status mart
-- outreach prioritization mart
-- executive KPI reporting mart
-- Python notebooks for profiling, analytics, and anomaly detection
+Classifies members into:
+- High Priority
+- Medium Priority
+- Low Priority
+
+Based on:
+- Risk level
+- Engagement status
+- Total healthcare cost
+- Utilization patterns (IP, ER, OP, RX)
+
+## Key Insights
+- High Priority members have the highest cost per member
+- High Priority members are not engaged in care management
+- Majority of total spend comes from Low Priority members due to volume
+- ER and inpatient utilization is higher among High Priority members
+
+## Business Impact
+Enables healthcare organizations to:
+- Target high-risk members for intervention
+- Improve care management engagement
+- Reduce avoidable healthcare costs
+- Balance population health vs targeted outreach strategies
+
+## Repository Structure
+
+models/
+  staging/
+  intermediate/
+  marts/
+
+notebooks/
+  outreach_priority_analysis.ipynb
+
+data/
+  raw/
+  exports/
+
+
+## Data Lineage
+
+![Lineage Graph](docs/screenshots/lineage.png)
